@@ -1,0 +1,50 @@
+# **Proje 1**
+## **[22,27,16,2,18,6] -> Insertion Sort**
+Yukarı verilen dizinin sort türüne göre aşamalarını yazınız. 
+ 
+ 
+**22|,27,16,2,18,6** (ilk hayali çizgimizi birinci elemandan sonraya koydum ve 22 ile 27'yi kıyaslıyorum, 27 sayısı 22 sayısından büyük olduğundan 22'nin sağına yerleştiriyorum).
+
+**22,27|,16,2,18,6** (ikinci hayali çizgiyi ekliyorum, şimdi 16 ile 27'yi karşılaştırıyorum, 16 sayısı 27'den küçük, bu yüzden sola yazıyoruz, daha sonra 16 sayısını 22 sayısı ile kıyaslıyorum, 22'den de küçük olduğu için 16 başa geliyor)
+
+**16,22,27|,2,18,6** (üçüncü hayali çizgiyi çekiyorum ve bu defa 2 sayısını soldaki sayılarla karşılaştırıp uygun yere yerleştiriyorum)
+
+**2,16,22,27|,18,6** (dördüncü hayali çizginin sağındaki 18'i sol taraftaki sayılarla karşılaştırarak uygun yere yerleştiriyorum)
+
+**2,16,18,22,27|,6** (beşinci hayali çizginin sağındaki 6'yı da soldaki uygun yere yerleştiriyorum)
+
+**2,6,16,18,22,27** (ARTIK SIRALI BİR DİZİYE SAHİBİM)
+
+## **Big O (n²)**
+
+Time Complexity: Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız
+
+**Avarage Case** kapsamına girer.
+
+
+
+
+## **[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.**
+
+**[2,3,5,8,7,9,4,15,6]** Dizi içerisindeki en küçük eleman bulunur ve en soldaki ile yerleri değiştirilir.
+
+**[2,3,5,8,7,9,4,15,6]** Dizi içindeki ikinci sayıdan başlayarak en küçük elemanı bulurum ve ikinci eleman ile yerini değiştirilir. İkinci sayıdan itibaren kendisinden daha küçük bir sayı olmadığından yerinde bırakılır.
+
+**[2,3,4,8,7,9,5,15,6]** Dizi içindeki üçüncü sayıdan itibaren en küçük sayı bulunur ve üçüncü sayı ile yerleri değiştirilir.
+
+**[2,3,4,5,7,9,8,15,6]** Dizi içindeki dördüncü sayıdan itibaren en küçük sayı bulunur ve dördüncü sayı ile yerleri değiştirilir.
+
+**[2,3,4,5,6,9,8,15,7]** Dizi içindeki beşinci sayıdan itibaren en küçük sayı bulunur ve beşinci sayı ile yerleri değiştirilir.
+
+**[2,3,4,5,6,7,8,15,9]** Dizi içindeki altıncı sayıdan itibaren en küçük sayı bulunur ve altıncı sayı ile yerleri değiştirilir.
+
+**[2,3,4,5,6,7,8,15,9]** Dizi içindeki yedinci sayıdan itibaren en küçük sayı bulunur ve yedinci sayı ile yerleri değiştirilir. Kendisinden daha küçük bir sayı olmadığından yerinde bırakılır.
+
+**[2,3,4,5,6,7,8,9,15]** Dizi içindeki sekizinci sayıdan itibaren en küçük sayı bulunur ve sekizinci sayı ile yerleri değiştirilir.
+
+
+## **License**
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+![]()
