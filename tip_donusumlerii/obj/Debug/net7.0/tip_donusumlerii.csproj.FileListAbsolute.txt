@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\bin\Debug\net7.0\tip_donusumlerii.exe
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\bin\Debug\net7.0\tip_donusumlerii.deps.json
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\bin\Debug\net7.0\tip_donusumlerii.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\bin\Debug\net7.0\tip_donusumlerii.dll
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\bin\Debug\net7.0\tip_donusumlerii.pdb
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\obj\Debug\net7.0\tip_donusumlerii.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\obj\Debug\net7.0\tip_donusumlerii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\obj\Debug\net7.0\tip_donusumlerii.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\obj\Debug\net7.0\tip_donusumlerii.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\obj\Debug\net7.0\tip_donusumlerii.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\obj\Debug\net7.0\tip_donusumlerii.dll
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\obj\Debug\net7.0\refint\tip_donusumlerii.dll
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\obj\Debug\net7.0\tip_donusumlerii.pdb
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\obj\Debug\net7.0\tip_donusumlerii.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\tip_donusumlerii\obj\Debug\net7.0\ref\tip_donusumlerii.dll
