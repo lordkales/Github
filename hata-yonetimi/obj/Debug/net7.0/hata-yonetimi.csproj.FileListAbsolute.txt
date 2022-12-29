@@ -1,0 +1,15 @@
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\obj\Debug\net7.0\refint\hata-yonetimi.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\hata-yonetimi\obj\Debug\net7.0\ref\hata-yonetimi.dll
