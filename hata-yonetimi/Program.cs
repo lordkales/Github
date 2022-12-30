@@ -1,4 +1,5 @@
-﻿try{
+﻿try
+{
 Console.WriteLine("Sayı Girin: ");
 int sayi = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Sayı Budur: " + sayi);
