@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "tip_donusumleri_tekrar/1.0.0": {
+        "runtime": {
+          "tip_donusumleri_tekrar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tip_donusumleri_tekrar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

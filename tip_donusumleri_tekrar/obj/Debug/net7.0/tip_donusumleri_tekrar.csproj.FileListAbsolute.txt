@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\bin\Debug\net7.0\tip_donusumleri_tekrar.exe
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\bin\Debug\net7.0\tip_donusumleri_tekrar.deps.json
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\bin\Debug\net7.0\tip_donusumleri_tekrar.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\bin\Debug\net7.0\tip_donusumleri_tekrar.dll
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\bin\Debug\net7.0\tip_donusumleri_tekrar.pdb
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\obj\Debug\net7.0\tip_donusumleri_tekrar.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\obj\Debug\net7.0\tip_donusumleri_tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\obj\Debug\net7.0\tip_donusumleri_tekrar.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\obj\Debug\net7.0\tip_donusumleri_tekrar.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\obj\Debug\net7.0\tip_donusumleri_tekrar.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\obj\Debug\net7.0\tip_donusumleri_tekrar.dll
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\obj\Debug\net7.0\refint\tip_donusumleri_tekrar.dll
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\obj\Debug\net7.0\tip_donusumleri_tekrar.pdb
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\obj\Debug\net7.0\tip_donusumleri_tekrar.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\tip_donusumleri_tekrar\obj\Debug\net7.0\ref\tip_donusumleri_tekrar.dll
