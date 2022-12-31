@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\donguler\bin\Debug\net7.0\donguler.exe
+C:\Users\akifb\Documents\GitHub\donguler\bin\Debug\net7.0\donguler.deps.json
+C:\Users\akifb\Documents\GitHub\donguler\bin\Debug\net7.0\donguler.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\donguler\bin\Debug\net7.0\donguler.dll
+C:\Users\akifb\Documents\GitHub\donguler\bin\Debug\net7.0\donguler.pdb
+C:\Users\akifb\Documents\GitHub\donguler\obj\Debug\net7.0\donguler.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\donguler\obj\Debug\net7.0\donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\donguler\obj\Debug\net7.0\donguler.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\donguler\obj\Debug\net7.0\donguler.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\donguler\obj\Debug\net7.0\donguler.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\donguler\obj\Debug\net7.0\donguler.dll
+C:\Users\akifb\Documents\GitHub\donguler\obj\Debug\net7.0\refint\donguler.dll
+C:\Users\akifb\Documents\GitHub\donguler\obj\Debug\net7.0\donguler.pdb
+C:\Users\akifb\Documents\GitHub\donguler\obj\Debug\net7.0\donguler.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\donguler\obj\Debug\net7.0\ref\donguler.dll
