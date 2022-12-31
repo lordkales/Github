@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\bin\Debug\net7.0\switch_case_alistirma.exe
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\bin\Debug\net7.0\switch_case_alistirma.deps.json
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\bin\Debug\net7.0\switch_case_alistirma.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\bin\Debug\net7.0\switch_case_alistirma.dll
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\bin\Debug\net7.0\switch_case_alistirma.pdb
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\obj\Debug\net7.0\switch_case_alistirma.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\obj\Debug\net7.0\switch_case_alistirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\obj\Debug\net7.0\switch_case_alistirma.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\obj\Debug\net7.0\switch_case_alistirma.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\obj\Debug\net7.0\switch_case_alistirma.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\obj\Debug\net7.0\switch_case_alistirma.dll
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\obj\Debug\net7.0\refint\switch_case_alistirma.dll
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\obj\Debug\net7.0\switch_case_alistirma.pdb
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\obj\Debug\net7.0\switch_case_alistirma.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\switch_case_alistirma\obj\Debug\net7.0\ref\switch_case_alistirma.dll
