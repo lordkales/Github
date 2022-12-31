@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\hackerrank5\bin\Debug\net7.0\hackerrank5.exe
+C:\Users\akifb\Documents\GitHub\hackerrank5\bin\Debug\net7.0\hackerrank5.deps.json
+C:\Users\akifb\Documents\GitHub\hackerrank5\bin\Debug\net7.0\hackerrank5.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\hackerrank5\bin\Debug\net7.0\hackerrank5.dll
+C:\Users\akifb\Documents\GitHub\hackerrank5\bin\Debug\net7.0\hackerrank5.pdb
+C:\Users\akifb\Documents\GitHub\hackerrank5\obj\Debug\net7.0\hackerrank5.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\hackerrank5\obj\Debug\net7.0\hackerrank5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\hackerrank5\obj\Debug\net7.0\hackerrank5.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\hackerrank5\obj\Debug\net7.0\hackerrank5.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\hackerrank5\obj\Debug\net7.0\hackerrank5.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\hackerrank5\obj\Debug\net7.0\hackerrank5.dll
+C:\Users\akifb\Documents\GitHub\hackerrank5\obj\Debug\net7.0\refint\hackerrank5.dll
+C:\Users\akifb\Documents\GitHub\hackerrank5\obj\Debug\net7.0\hackerrank5.pdb
+C:\Users\akifb\Documents\GitHub\hackerrank5\obj\Debug\net7.0\hackerrank5.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\hackerrank5\obj\Debug\net7.0\ref\hackerrank5.dll
