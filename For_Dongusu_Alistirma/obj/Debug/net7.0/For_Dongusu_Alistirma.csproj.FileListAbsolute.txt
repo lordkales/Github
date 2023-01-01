@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\bin\Debug\net7.0\For_Dongusu_Alistirma.exe
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\bin\Debug\net7.0\For_Dongusu_Alistirma.deps.json
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\bin\Debug\net7.0\For_Dongusu_Alistirma.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\bin\Debug\net7.0\For_Dongusu_Alistirma.dll
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\bin\Debug\net7.0\For_Dongusu_Alistirma.pdb
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\obj\Debug\net7.0\For_Dongusu_Alistirma.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\obj\Debug\net7.0\For_Dongusu_Alistirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\obj\Debug\net7.0\For_Dongusu_Alistirma.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\obj\Debug\net7.0\For_Dongusu_Alistirma.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\obj\Debug\net7.0\For_Dongusu_Alistirma.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\obj\Debug\net7.0\For_Dongusu_Alistirma.dll
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\obj\Debug\net7.0\refint\For_Dongusu_Alistirma.dll
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\obj\Debug\net7.0\For_Dongusu_Alistirma.pdb
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\obj\Debug\net7.0\For_Dongusu_Alistirma.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\For_Dongusu_Alistirma\obj\Debug\net7.0\ref\For_Dongusu_Alistirma.dll
