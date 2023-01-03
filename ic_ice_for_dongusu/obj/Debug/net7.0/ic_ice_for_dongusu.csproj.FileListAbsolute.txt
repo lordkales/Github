@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\bin\Debug\net7.0\ic_ice_for_dongusu.exe
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\bin\Debug\net7.0\ic_ice_for_dongusu.deps.json
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\bin\Debug\net7.0\ic_ice_for_dongusu.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\bin\Debug\net7.0\ic_ice_for_dongusu.dll
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\bin\Debug\net7.0\ic_ice_for_dongusu.pdb
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\obj\Debug\net7.0\ic_ice_for_dongusu.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\obj\Debug\net7.0\ic_ice_for_dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\obj\Debug\net7.0\ic_ice_for_dongusu.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\obj\Debug\net7.0\ic_ice_for_dongusu.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\obj\Debug\net7.0\ic_ice_for_dongusu.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\obj\Debug\net7.0\ic_ice_for_dongusu.dll
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\obj\Debug\net7.0\refint\ic_ice_for_dongusu.dll
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\obj\Debug\net7.0\ic_ice_for_dongusu.pdb
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\obj\Debug\net7.0\ic_ice_for_dongusu.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\ic_ice_for_dongusu\obj\Debug\net7.0\ref\ic_ice_for_dongusu.dll
