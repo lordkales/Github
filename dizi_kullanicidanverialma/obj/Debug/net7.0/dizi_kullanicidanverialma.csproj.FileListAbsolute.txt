@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\bin\Debug\net7.0\dizi_kullanicidanverialma.exe
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\bin\Debug\net7.0\dizi_kullanicidanverialma.deps.json
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\bin\Debug\net7.0\dizi_kullanicidanverialma.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\bin\Debug\net7.0\dizi_kullanicidanverialma.dll
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\bin\Debug\net7.0\dizi_kullanicidanverialma.pdb
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\obj\Debug\net7.0\dizi_kullanicidanverialma.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\obj\Debug\net7.0\dizi_kullanicidanverialma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\obj\Debug\net7.0\dizi_kullanicidanverialma.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\obj\Debug\net7.0\dizi_kullanicidanverialma.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\obj\Debug\net7.0\dizi_kullanicidanverialma.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\obj\Debug\net7.0\dizi_kullanicidanverialma.dll
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\obj\Debug\net7.0\refint\dizi_kullanicidanverialma.dll
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\obj\Debug\net7.0\dizi_kullanicidanverialma.pdb
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\obj\Debug\net7.0\dizi_kullanicidanverialma.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\dizi_kullanicidanverialma\obj\Debug\net7.0\ref\dizi_kullanicidanverialma.dll

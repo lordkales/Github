@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\obj\Debug\net7.0\dizi_ytveritipleridizitanim.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\obj\Debug\net7.0\dizi_ytveritipleridizitanim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\obj\Debug\net7.0\dizi_ytveritipleridizitanim.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\obj\Debug\net7.0\dizi_ytveritipleridizitanim.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\obj\Debug\net7.0\dizi_ytveritipleridizitanim.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\bin\Debug\net7.0\dizi_ytveritipleridizitanim.exe
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\bin\Debug\net7.0\dizi_ytveritipleridizitanim.deps.json
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\bin\Debug\net7.0\dizi_ytveritipleridizitanim.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\bin\Debug\net7.0\dizi_ytveritipleridizitanim.dll
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\bin\Debug\net7.0\dizi_ytveritipleridizitanim.pdb
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\obj\Debug\net7.0\dizi_ytveritipleridizitanim.dll
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\obj\Debug\net7.0\refint\dizi_ytveritipleridizitanim.dll
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\obj\Debug\net7.0\dizi_ytveritipleridizitanim.pdb
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\obj\Debug\net7.0\dizi_ytveritipleridizitanim.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\dizi_ytveritipleridizitanim\obj\Debug\net7.0\ref\dizi_ytveritipleridizitanim.dll

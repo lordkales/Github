@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\diziler\bin\Debug\net7.0\diziler.exe
+C:\Users\akifb\Documents\GitHub\diziler\bin\Debug\net7.0\diziler.deps.json
+C:\Users\akifb\Documents\GitHub\diziler\bin\Debug\net7.0\diziler.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\diziler\bin\Debug\net7.0\diziler.dll
+C:\Users\akifb\Documents\GitHub\diziler\bin\Debug\net7.0\diziler.pdb
+C:\Users\akifb\Documents\GitHub\diziler\obj\Debug\net7.0\diziler.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\diziler\obj\Debug\net7.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\diziler\obj\Debug\net7.0\diziler.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\diziler\obj\Debug\net7.0\diziler.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\diziler\obj\Debug\net7.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\diziler\obj\Debug\net7.0\diziler.dll
+C:\Users\akifb\Documents\GitHub\diziler\obj\Debug\net7.0\refint\diziler.dll
+C:\Users\akifb\Documents\GitHub\diziler\obj\Debug\net7.0\diziler.pdb
+C:\Users\akifb\Documents\GitHub\diziler\obj\Debug\net7.0\diziler.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\diziler\obj\Debug\net7.0\ref\diziler.dll

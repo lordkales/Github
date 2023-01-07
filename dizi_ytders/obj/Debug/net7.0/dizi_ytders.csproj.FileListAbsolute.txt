@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\dizi_ytders\bin\Debug\net7.0\dizi_ytders.exe
+C:\Users\akifb\Documents\GitHub\dizi_ytders\bin\Debug\net7.0\dizi_ytders.deps.json
+C:\Users\akifb\Documents\GitHub\dizi_ytders\bin\Debug\net7.0\dizi_ytders.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\dizi_ytders\bin\Debug\net7.0\dizi_ytders.dll
+C:\Users\akifb\Documents\GitHub\dizi_ytders\bin\Debug\net7.0\dizi_ytders.pdb
+C:\Users\akifb\Documents\GitHub\dizi_ytders\obj\Debug\net7.0\dizi_ytders.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\dizi_ytders\obj\Debug\net7.0\dizi_ytders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\dizi_ytders\obj\Debug\net7.0\dizi_ytders.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\dizi_ytders\obj\Debug\net7.0\dizi_ytders.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\dizi_ytders\obj\Debug\net7.0\dizi_ytders.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\dizi_ytders\obj\Debug\net7.0\dizi_ytders.dll
+C:\Users\akifb\Documents\GitHub\dizi_ytders\obj\Debug\net7.0\refint\dizi_ytders.dll
+C:\Users\akifb\Documents\GitHub\dizi_ytders\obj\Debug\net7.0\dizi_ytders.pdb
+C:\Users\akifb\Documents\GitHub\dizi_ytders\obj\Debug\net7.0\dizi_ytders.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\dizi_ytders\obj\Debug\net7.0\ref\dizi_ytders.dll

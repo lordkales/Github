@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "dizi_ytders/1.0.0": {
+        "runtime": {
+          "dizi_ytders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dizi_ytders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

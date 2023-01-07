@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "dizi_ytveritipleridizitanim/1.0.0": {
+        "runtime": {
+          "dizi_ytveritipleridizitanim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dizi_ytveritipleridizitanim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
