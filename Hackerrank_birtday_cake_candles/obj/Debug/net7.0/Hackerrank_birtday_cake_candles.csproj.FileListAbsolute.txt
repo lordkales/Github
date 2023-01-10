@@ -1,0 +1,15 @@
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\bin\Debug\net7.0\Hackerrank_birtday_cake_candles.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\bin\Debug\net7.0\Hackerrank_birtday_cake_candles.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\bin\Debug\net7.0\Hackerrank_birtday_cake_candles.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\bin\Debug\net7.0\Hackerrank_birtday_cake_candles.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\bin\Debug\net7.0\Hackerrank_birtday_cake_candles.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\obj\Debug\net7.0\Hackerrank_birtday_cake_candles.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\obj\Debug\net7.0\Hackerrank_birtday_cake_candles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\obj\Debug\net7.0\Hackerrank_birtday_cake_candles.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\obj\Debug\net7.0\Hackerrank_birtday_cake_candles.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\obj\Debug\net7.0\Hackerrank_birtday_cake_candles.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\obj\Debug\net7.0\Hackerrank_birtday_cake_candles.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\obj\Debug\net7.0\refint\Hackerrank_birtday_cake_candles.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\obj\Debug\net7.0\Hackerrank_birtday_cake_candles.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\obj\Debug\net7.0\Hackerrank_birtday_cake_candles.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Hackerrank_birtday_cake_candles\obj\Debug\net7.0\ref\Hackerrank_birtday_cake_candles.dll
