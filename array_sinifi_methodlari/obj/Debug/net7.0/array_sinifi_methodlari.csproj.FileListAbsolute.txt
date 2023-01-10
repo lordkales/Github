@@ -1,0 +1,15 @@
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\bin\Debug\net7.0\array_sinifi_methodlari.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\bin\Debug\net7.0\array_sinifi_methodlari.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\bin\Debug\net7.0\array_sinifi_methodlari.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\bin\Debug\net7.0\array_sinifi_methodlari.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\bin\Debug\net7.0\array_sinifi_methodlari.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\obj\Debug\net7.0\array_sinifi_methodlari.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\obj\Debug\net7.0\array_sinifi_methodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\obj\Debug\net7.0\array_sinifi_methodlari.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\obj\Debug\net7.0\array_sinifi_methodlari.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\obj\Debug\net7.0\array_sinifi_methodlari.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\obj\Debug\net7.0\array_sinifi_methodlari.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\obj\Debug\net7.0\refint\array_sinifi_methodlari.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\obj\Debug\net7.0\array_sinifi_methodlari.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\obj\Debug\net7.0\array_sinifi_methodlari.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\array_sinifi_methodlari\obj\Debug\net7.0\ref\array_sinifi_methodlari.dll

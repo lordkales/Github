@@ -1,0 +1,15 @@
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\bin\Debug\net7.0\if_elseif_alistirma.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\bin\Debug\net7.0\if_elseif_alistirma.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\bin\Debug\net7.0\if_elseif_alistirma.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\bin\Debug\net7.0\if_elseif_alistirma.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\bin\Debug\net7.0\if_elseif_alistirma.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\obj\Debug\net7.0\if_elseif_alistirma.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\obj\Debug\net7.0\if_elseif_alistirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\obj\Debug\net7.0\if_elseif_alistirma.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\obj\Debug\net7.0\if_elseif_alistirma.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\obj\Debug\net7.0\if_elseif_alistirma.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\obj\Debug\net7.0\if_elseif_alistirma.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\obj\Debug\net7.0\refint\if_elseif_alistirma.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\obj\Debug\net7.0\if_elseif_alistirma.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\obj\Debug\net7.0\if_elseif_alistirma.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_elseif_alistirma\obj\Debug\net7.0\ref\if_elseif_alistirma.dll

@@ -1,0 +1,15 @@
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\bin\Debug\net7.0\if_else_not_ortalamasi_bulma.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\bin\Debug\net7.0\if_else_not_ortalamasi_bulma.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\bin\Debug\net7.0\if_else_not_ortalamasi_bulma.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\bin\Debug\net7.0\if_else_not_ortalamasi_bulma.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\bin\Debug\net7.0\if_else_not_ortalamasi_bulma.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\obj\Debug\net7.0\if_else_not_ortalamasi_bulma.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\obj\Debug\net7.0\if_else_not_ortalamasi_bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\obj\Debug\net7.0\if_else_not_ortalamasi_bulma.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\obj\Debug\net7.0\if_else_not_ortalamasi_bulma.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\obj\Debug\net7.0\if_else_not_ortalamasi_bulma.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\obj\Debug\net7.0\if_else_not_ortalamasi_bulma.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\obj\Debug\net7.0\refint\if_else_not_ortalamasi_bulma.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\obj\Debug\net7.0\if_else_not_ortalamasi_bulma.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\obj\Debug\net7.0\if_else_not_ortalamasi_bulma.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_not_ortalamasi_bulma\obj\Debug\net7.0\ref\if_else_not_ortalamasi_bulma.dll
