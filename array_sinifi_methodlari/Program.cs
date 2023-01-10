@@ -30,7 +30,8 @@
         Console.WriteLine(sayi);
 
         //indexof
-        // dizi içerisinde bulunan bir elemanın kaçıncı indexde olduğunu gösterir
+        // dizi içerisinde bulunan bir elemanın kaçıncı indexde olduğunu gösterir, eleman
+        // yoksa -1 döner
 
         Console.WriteLine(" **** indexof **** ");
         Console.WriteLine(Array.IndexOf(sayidizisi,74));
