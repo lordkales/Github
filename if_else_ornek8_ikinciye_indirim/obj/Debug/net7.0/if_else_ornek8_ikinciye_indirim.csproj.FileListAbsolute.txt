@@ -1,0 +1,15 @@
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\bin\Debug\net7.0\if_else_ornek8_ikinciye_indirim.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\bin\Debug\net7.0\if_else_ornek8_ikinciye_indirim.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\bin\Debug\net7.0\if_else_ornek8_ikinciye_indirim.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\bin\Debug\net7.0\if_else_ornek8_ikinciye_indirim.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\bin\Debug\net7.0\if_else_ornek8_ikinciye_indirim.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\obj\Debug\net7.0\if_else_ornek8_ikinciye_indirim.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\obj\Debug\net7.0\if_else_ornek8_ikinciye_indirim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\obj\Debug\net7.0\if_else_ornek8_ikinciye_indirim.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\obj\Debug\net7.0\if_else_ornek8_ikinciye_indirim.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\obj\Debug\net7.0\if_else_ornek8_ikinciye_indirim.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\obj\Debug\net7.0\if_else_ornek8_ikinciye_indirim.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\obj\Debug\net7.0\refint\if_else_ornek8_ikinciye_indirim.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\obj\Debug\net7.0\if_else_ornek8_ikinciye_indirim.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\obj\Debug\net7.0\if_else_ornek8_ikinciye_indirim.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek8_ikinciye_indirim\obj\Debug\net7.0\ref\if_else_ornek8_ikinciye_indirim.dll

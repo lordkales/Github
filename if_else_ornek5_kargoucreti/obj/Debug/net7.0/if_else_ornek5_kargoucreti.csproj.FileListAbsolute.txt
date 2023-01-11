@@ -1,0 +1,15 @@
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\bin\Debug\net7.0\if_else_ornek5_kargoucreti.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\bin\Debug\net7.0\if_else_ornek5_kargoucreti.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\bin\Debug\net7.0\if_else_ornek5_kargoucreti.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\bin\Debug\net7.0\if_else_ornek5_kargoucreti.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\bin\Debug\net7.0\if_else_ornek5_kargoucreti.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\obj\Debug\net7.0\if_else_ornek5_kargoucreti.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\obj\Debug\net7.0\if_else_ornek5_kargoucreti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\obj\Debug\net7.0\if_else_ornek5_kargoucreti.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\obj\Debug\net7.0\if_else_ornek5_kargoucreti.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\obj\Debug\net7.0\if_else_ornek5_kargoucreti.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\obj\Debug\net7.0\if_else_ornek5_kargoucreti.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\obj\Debug\net7.0\refint\if_else_ornek5_kargoucreti.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\obj\Debug\net7.0\if_else_ornek5_kargoucreti.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\obj\Debug\net7.0\if_else_ornek5_kargoucreti.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek5_kargoucreti\obj\Debug\net7.0\ref\if_else_ornek5_kargoucreti.dll

@@ -1,0 +1,15 @@
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\bin\Debug\net7.0\if_else_ornek4_tekcift.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\bin\Debug\net7.0\if_else_ornek4_tekcift.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\bin\Debug\net7.0\if_else_ornek4_tekcift.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\bin\Debug\net7.0\if_else_ornek4_tekcift.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\bin\Debug\net7.0\if_else_ornek4_tekcift.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\obj\Debug\net7.0\if_else_ornek4_tekcift.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\obj\Debug\net7.0\if_else_ornek4_tekcift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\obj\Debug\net7.0\if_else_ornek4_tekcift.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\obj\Debug\net7.0\if_else_ornek4_tekcift.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\obj\Debug\net7.0\if_else_ornek4_tekcift.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\obj\Debug\net7.0\if_else_ornek4_tekcift.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\obj\Debug\net7.0\refint\if_else_ornek4_tekcift.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\obj\Debug\net7.0\if_else_ornek4_tekcift.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\obj\Debug\net7.0\if_else_ornek4_tekcift.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek4_tekcift\obj\Debug\net7.0\ref\if_else_ornek4_tekcift.dll

@@ -1,0 +1,15 @@
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\bin\Debug\net7.0\Array_List.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\bin\Debug\net7.0\Array_List.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\bin\Debug\net7.0\Array_List.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\bin\Debug\net7.0\Array_List.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\bin\Debug\net7.0\Array_List.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\obj\Debug\net7.0\Array_List.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\obj\Debug\net7.0\Array_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\obj\Debug\net7.0\Array_List.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\obj\Debug\net7.0\Array_List.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\obj\Debug\net7.0\Array_List.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\obj\Debug\net7.0\Array_List.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\obj\Debug\net7.0\refint\Array_List.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\obj\Debug\net7.0\Array_List.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\obj\Debug\net7.0\Array_List.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\Array_List\obj\Debug\net7.0\ref\Array_List.dll

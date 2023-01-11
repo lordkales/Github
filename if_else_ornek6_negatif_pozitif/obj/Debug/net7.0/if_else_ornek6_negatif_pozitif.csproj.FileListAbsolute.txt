@@ -1,0 +1,15 @@
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\bin\Debug\net7.0\if_else_ornek6_negatif_pozitif.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\bin\Debug\net7.0\if_else_ornek6_negatif_pozitif.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\bin\Debug\net7.0\if_else_ornek6_negatif_pozitif.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\bin\Debug\net7.0\if_else_ornek6_negatif_pozitif.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\bin\Debug\net7.0\if_else_ornek6_negatif_pozitif.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\obj\Debug\net7.0\if_else_ornek6_negatif_pozitif.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\obj\Debug\net7.0\if_else_ornek6_negatif_pozitif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\obj\Debug\net7.0\if_else_ornek6_negatif_pozitif.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\obj\Debug\net7.0\if_else_ornek6_negatif_pozitif.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\obj\Debug\net7.0\if_else_ornek6_negatif_pozitif.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\obj\Debug\net7.0\if_else_ornek6_negatif_pozitif.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\obj\Debug\net7.0\refint\if_else_ornek6_negatif_pozitif.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\obj\Debug\net7.0\if_else_ornek6_negatif_pozitif.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\obj\Debug\net7.0\if_else_ornek6_negatif_pozitif.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek6_negatif_pozitif\obj\Debug\net7.0\ref\if_else_ornek6_negatif_pozitif.dll

@@ -1,0 +1,15 @@
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\bin\Debug\net7.0\if_else_ornek3.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\bin\Debug\net7.0\if_else_ornek3.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\bin\Debug\net7.0\if_else_ornek3.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\bin\Debug\net7.0\if_else_ornek3.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\bin\Debug\net7.0\if_else_ornek3.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\obj\Debug\net7.0\if_else_ornek3.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\obj\Debug\net7.0\if_else_ornek3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\obj\Debug\net7.0\if_else_ornek3.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\obj\Debug\net7.0\if_else_ornek3.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\obj\Debug\net7.0\if_else_ornek3.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\obj\Debug\net7.0\if_else_ornek3.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\obj\Debug\net7.0\refint\if_else_ornek3.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\obj\Debug\net7.0\if_else_ornek3.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\obj\Debug\net7.0\if_else_ornek3.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek3\obj\Debug\net7.0\ref\if_else_ornek3.dll

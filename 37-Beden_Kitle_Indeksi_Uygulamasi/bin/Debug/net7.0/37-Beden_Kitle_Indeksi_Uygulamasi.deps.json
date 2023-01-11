@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "37-Beden_Kitle_Indeksi_Uygulamasi/1.0.0": {
+        "runtime": {
+          "37-Beden_Kitle_Indeksi_Uygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "37-Beden_Kitle_Indeksi_Uygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

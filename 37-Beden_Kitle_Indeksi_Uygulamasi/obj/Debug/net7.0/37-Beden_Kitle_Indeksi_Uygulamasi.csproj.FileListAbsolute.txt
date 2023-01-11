@@ -1,0 +1,15 @@
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\bin\Debug\net7.0\37-Beden_Kitle_Indeksi_Uygulamasi.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\bin\Debug\net7.0\37-Beden_Kitle_Indeksi_Uygulamasi.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\bin\Debug\net7.0\37-Beden_Kitle_Indeksi_Uygulamasi.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\bin\Debug\net7.0\37-Beden_Kitle_Indeksi_Uygulamasi.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\bin\Debug\net7.0\37-Beden_Kitle_Indeksi_Uygulamasi.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\obj\Debug\net7.0\37-Beden_Kitle_Indeksi_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\obj\Debug\net7.0\37-Beden_Kitle_Indeksi_Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\obj\Debug\net7.0\37-Beden_Kitle_Indeksi_Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\obj\Debug\net7.0\37-Beden_Kitle_Indeksi_Uygulamasi.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\obj\Debug\net7.0\37-Beden_Kitle_Indeksi_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\obj\Debug\net7.0\37-Beden_Kitle_Indeksi_Uygulamasi.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\obj\Debug\net7.0\refint\37-Beden_Kitle_Indeksi_Uygulamasi.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\obj\Debug\net7.0\37-Beden_Kitle_Indeksi_Uygulamasi.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\obj\Debug\net7.0\37-Beden_Kitle_Indeksi_Uygulamasi.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\37-Beden_Kitle_Indeksi_Uygulamasi\obj\Debug\net7.0\ref\37-Beden_Kitle_Indeksi_Uygulamasi.dll

@@ -1,0 +1,15 @@
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\bin\Debug\net7.0\if_else_ornek7_dort_islem.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\bin\Debug\net7.0\if_else_ornek7_dort_islem.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\bin\Debug\net7.0\if_else_ornek7_dort_islem.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\bin\Debug\net7.0\if_else_ornek7_dort_islem.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\bin\Debug\net7.0\if_else_ornek7_dort_islem.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\obj\Debug\net7.0\if_else_ornek7_dort_islem.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\obj\Debug\net7.0\if_else_ornek7_dort_islem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\obj\Debug\net7.0\if_else_ornek7_dort_islem.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\obj\Debug\net7.0\if_else_ornek7_dort_islem.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\obj\Debug\net7.0\if_else_ornek7_dort_islem.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\obj\Debug\net7.0\if_else_ornek7_dort_islem.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\obj\Debug\net7.0\refint\if_else_ornek7_dort_islem.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\obj\Debug\net7.0\if_else_ornek7_dort_islem.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\obj\Debug\net7.0\if_else_ornek7_dort_islem.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\if_else_ornek7_dort_islem\obj\Debug\net7.0\ref\if_else_ornek7_dort_islem.dll
