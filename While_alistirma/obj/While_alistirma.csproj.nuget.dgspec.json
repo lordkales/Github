@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akifb\\Documents\\GitHub\\While_alistirma\\While_alistirma.csproj": {}
+    "C:\\Users\\OR\\Documents\\Visual Studio Code\\sites\\Github\\While_alistirma\\While_alistirma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akifb\\Documents\\GitHub\\While_alistirma\\While_alistirma.csproj": {
+    "C:\\Users\\OR\\Documents\\Visual Studio Code\\sites\\Github\\While_alistirma\\While_alistirma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akifb\\Documents\\GitHub\\While_alistirma\\While_alistirma.csproj",
+        "projectUniqueName": "C:\\Users\\OR\\Documents\\Visual Studio Code\\sites\\Github\\While_alistirma\\While_alistirma.csproj",
         "projectName": "While_alistirma",
-        "projectPath": "C:\\Users\\akifb\\Documents\\GitHub\\While_alistirma\\While_alistirma.csproj",
-        "packagesPath": "C:\\Users\\akifb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akifb\\Documents\\GitHub\\While_alistirma\\obj\\",
+        "projectPath": "C:\\Users\\OR\\Documents\\Visual Studio Code\\sites\\Github\\While_alistirma\\While_alistirma.csproj",
+        "packagesPath": "C:\\Users\\OR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OR\\Documents\\Visual Studio Code\\sites\\Github\\While_alistirma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\akifb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\OR\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
