@@ -13,3 +13,18 @@ C:\Users\akifb\Documents\GitHub\While_alistirma\obj\Debug\net7.0\refint\While_al
 C:\Users\akifb\Documents\GitHub\While_alistirma\obj\Debug\net7.0\While_alistirma.pdb
 C:\Users\akifb\Documents\GitHub\While_alistirma\obj\Debug\net7.0\While_alistirma.genruntimeconfig.cache
 C:\Users\akifb\Documents\GitHub\While_alistirma\obj\Debug\net7.0\ref\While_alistirma.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\obj\Debug\net7.0\While_alistirma.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\obj\Debug\net7.0\While_alistirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\obj\Debug\net7.0\While_alistirma.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\obj\Debug\net7.0\While_alistirma.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\obj\Debug\net7.0\While_alistirma.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\obj\Debug\net7.0\While_alistirma.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\obj\Debug\net7.0\refint\While_alistirma.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\obj\Debug\net7.0\While_alistirma.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\bin\Debug\net7.0\While_alistirma.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\bin\Debug\net7.0\While_alistirma.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\bin\Debug\net7.0\While_alistirma.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\bin\Debug\net7.0\While_alistirma.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\bin\Debug\net7.0\While_alistirma.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\obj\Debug\net7.0\While_alistirma.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\While_alistirma\obj\Debug\net7.0\ref\While_alistirma.dll

@@ -19,6 +19,7 @@
             b-=2;
         }*/
 
+<<<<<<< HEAD
         // Klavyeden girilen sayıdan geriye doğru birer saniye arayla sayan bir sayaç hazırlayalım
 
         /*int sayi = Convert.ToInt32(Console.ReadLine());
@@ -58,5 +59,25 @@
             sayi--;
         }
         Console.WriteLine(fakt);
+=======
+        //1'den 10'a kadar sayıları ekrana yazdır. (do while ile)
+        int a=1;
+        do
+        {
+            Console.WriteLine(a);
+            a++;
+        } while (a<=10);
+
+        //1'den 100'e kadar olan sayıların toplamı yazdır (do while ile)
+
+        int toplam=0,b=1;
+        
+        do
+        {
+            toplam=toplam+b;
+            b++;
+        } while (b<=100);
+        Console.WriteLine(toplam);
+>>>>>>> 5e7375e22b67bb2b24f01b7fa6880093fbae5c28
     }
 }
