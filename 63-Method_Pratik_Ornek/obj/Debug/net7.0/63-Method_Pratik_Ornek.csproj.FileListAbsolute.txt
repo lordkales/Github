@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\bin\Debug\net7.0\63-Method_Pratik_Ornek.exe
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\bin\Debug\net7.0\63-Method_Pratik_Ornek.deps.json
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\bin\Debug\net7.0\63-Method_Pratik_Ornek.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\bin\Debug\net7.0\63-Method_Pratik_Ornek.dll
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\bin\Debug\net7.0\63-Method_Pratik_Ornek.pdb
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\obj\Debug\net7.0\63-Method_Pratik_Ornek.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\obj\Debug\net7.0\63-Method_Pratik_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\obj\Debug\net7.0\63-Method_Pratik_Ornek.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\obj\Debug\net7.0\63-Method_Pratik_Ornek.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\obj\Debug\net7.0\63-Method_Pratik_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\obj\Debug\net7.0\63-Method_Pratik_Ornek.dll
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\obj\Debug\net7.0\refint\63-Method_Pratik_Ornek.dll
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\obj\Debug\net7.0\63-Method_Pratik_Ornek.pdb
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\obj\Debug\net7.0\63-Method_Pratik_Ornek.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\63-Method_Pratik_Ornek\obj\Debug\net7.0\ref\63-Method_Pratik_Ornek.dll

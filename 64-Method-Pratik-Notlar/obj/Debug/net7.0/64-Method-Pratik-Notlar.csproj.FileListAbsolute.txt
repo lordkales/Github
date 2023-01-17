@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\bin\Debug\net7.0\64-Method-Pratik-Notlar.exe
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\bin\Debug\net7.0\64-Method-Pratik-Notlar.deps.json
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\bin\Debug\net7.0\64-Method-Pratik-Notlar.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\bin\Debug\net7.0\64-Method-Pratik-Notlar.dll
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\bin\Debug\net7.0\64-Method-Pratik-Notlar.pdb
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\obj\Debug\net7.0\64-Method-Pratik-Notlar.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\obj\Debug\net7.0\64-Method-Pratik-Notlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\obj\Debug\net7.0\64-Method-Pratik-Notlar.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\obj\Debug\net7.0\64-Method-Pratik-Notlar.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\obj\Debug\net7.0\64-Method-Pratik-Notlar.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\obj\Debug\net7.0\64-Method-Pratik-Notlar.dll
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\obj\Debug\net7.0\refint\64-Method-Pratik-Notlar.dll
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\obj\Debug\net7.0\64-Method-Pratik-Notlar.pdb
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\obj\Debug\net7.0\64-Method-Pratik-Notlar.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\64-Method-Pratik-Notlar\obj\Debug\net7.0\ref\64-Method-Pratik-Notlar.dll
