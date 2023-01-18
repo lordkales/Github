@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\bin\Debug\net7.0\metot_Tanimlama.exe
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\bin\Debug\net7.0\metot_Tanimlama.deps.json
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\bin\Debug\net7.0\metot_Tanimlama.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\bin\Debug\net7.0\metot_Tanimlama.dll
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\bin\Debug\net7.0\metot_Tanimlama.pdb
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\obj\Debug\net7.0\metot_Tanimlama.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\obj\Debug\net7.0\metot_Tanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\obj\Debug\net7.0\metot_Tanimlama.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\obj\Debug\net7.0\metot_Tanimlama.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\obj\Debug\net7.0\metot_Tanimlama.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\obj\Debug\net7.0\metot_Tanimlama.dll
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\obj\Debug\net7.0\refint\metot_Tanimlama.dll
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\obj\Debug\net7.0\metot_Tanimlama.pdb
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\obj\Debug\net7.0\metot_Tanimlama.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\metot_Tanimlama\obj\Debug\net7.0\ref\metot_Tanimlama.dll
