@@ -3,23 +3,21 @@
     private static void Main(string[] args)
     {
         // Kullanıcının girdiği sayının tek mi çift mi olduğunu yazdıran kodlar
+        Console.WriteLine("Lütfen bir sayı giriniz: ");
+        int sayi = Convert.ToInt32(Console.ReadLine());
+        int kalan=kontrol(sayi);
 
-        Console.WriteLine("TEK ÇİFT BULMA ROBOTUNA HOŞGELDİNİZ!! ");
-        Console.Write("Lütfen bir sayı giriniz: ");
-        int sayi=Convert.ToInt32(Console.ReadLine());
-        int gelensonuc=sonuc(sayi);
-
-        if (gelensonuc==0)
+        if (kalan==0)
         {
-            Console.WriteLine("SAYI ÇİFT");
+            Console.WriteLine(sayi+" Sayısı Çift Sayıdır.");
         }
         else
         {
-            Console.WriteLine("SAYI TEK");
+            Console.WriteLine(sayi+" Sayısı Tek Sayıdır.");
         }
         
     }
-    static int sonuc(int sayi)
+    static int kontrol(int sayi)
     {
         return sayi%2;
     }

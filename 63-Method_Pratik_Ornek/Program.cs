@@ -4,27 +4,28 @@
     {
         // Kullanıcıdan aldığımız sayının karesini al
         // Sonuç 25'ten büyükse büyük, küçükse küçük yazdıran kodlar
-        
-        Console.Write("Lütfen sayı gir: ");
-        int sayi = Convert.ToInt32(Console.ReadLine());
-        
-        int gelensonuc=karesi(sayi);
-        if (gelensonuc>25)
+
+        Console.Write("Lütfen bir sayı giriniz: ");
+        int sayi=Convert.ToInt32(Console.ReadLine());
+        int donenkare=alkaresini(sayi);
+
+        if (donenkare>25)
         {
-            Console.WriteLine("Sayınız: "+gelensonuc+"; 25'ten büyük");
+            Console.WriteLine("Sayınız: "+donenkare+ "; 25'ten büyüktür.");
         }
-        else if (gelensonuc==25)
+        else if (donenkare==25)
         {
-            Console.WriteLine("Sayınız: "+gelensonuc+"; 25'e eşit");
+            Console.WriteLine("Sayınız: 25'tir. ");
         }
         else
         {
-            Console.WriteLine("Sayınız: "+gelensonuc+"; 25'ten küçük");
+            Console.WriteLine("Sayınız: "+donenkare+ "; 25'ten küçüktür.");
         }
-    }
-    static int karesi(int sayi)
-    {
+          
         
+    }
+    static int alkaresini(int sayi)
+    {
         return sayi*sayi;
     }
 }
