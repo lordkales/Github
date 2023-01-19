@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\metot_Overloading\bin\Debug\net7.0\metot_Overloading.exe
+C:\Users\akifb\Documents\GitHub\metot_Overloading\bin\Debug\net7.0\metot_Overloading.deps.json
+C:\Users\akifb\Documents\GitHub\metot_Overloading\bin\Debug\net7.0\metot_Overloading.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\metot_Overloading\bin\Debug\net7.0\metot_Overloading.dll
+C:\Users\akifb\Documents\GitHub\metot_Overloading\bin\Debug\net7.0\metot_Overloading.pdb
+C:\Users\akifb\Documents\GitHub\metot_Overloading\obj\Debug\net7.0\metot_Overloading.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\metot_Overloading\obj\Debug\net7.0\metot_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\metot_Overloading\obj\Debug\net7.0\metot_Overloading.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\metot_Overloading\obj\Debug\net7.0\metot_Overloading.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\metot_Overloading\obj\Debug\net7.0\metot_Overloading.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\metot_Overloading\obj\Debug\net7.0\metot_Overloading.dll
+C:\Users\akifb\Documents\GitHub\metot_Overloading\obj\Debug\net7.0\refint\metot_Overloading.dll
+C:\Users\akifb\Documents\GitHub\metot_Overloading\obj\Debug\net7.0\metot_Overloading.pdb
+C:\Users\akifb\Documents\GitHub\metot_Overloading\obj\Debug\net7.0\metot_Overloading.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\metot_Overloading\obj\Debug\net7.0\ref\metot_Overloading.dll
