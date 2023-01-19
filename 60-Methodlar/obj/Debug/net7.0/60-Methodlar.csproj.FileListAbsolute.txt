@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\60-Methodlar\bin\Debug\net7.0\60-Methodlar.exe
+C:\Users\akifb\Documents\GitHub\60-Methodlar\bin\Debug\net7.0\60-Methodlar.deps.json
+C:\Users\akifb\Documents\GitHub\60-Methodlar\bin\Debug\net7.0\60-Methodlar.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\60-Methodlar\bin\Debug\net7.0\60-Methodlar.dll
+C:\Users\akifb\Documents\GitHub\60-Methodlar\bin\Debug\net7.0\60-Methodlar.pdb
+C:\Users\akifb\Documents\GitHub\60-Methodlar\obj\Debug\net7.0\60-Methodlar.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\60-Methodlar\obj\Debug\net7.0\60-Methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\60-Methodlar\obj\Debug\net7.0\60-Methodlar.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\60-Methodlar\obj\Debug\net7.0\60-Methodlar.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\60-Methodlar\obj\Debug\net7.0\60-Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\60-Methodlar\obj\Debug\net7.0\60-Methodlar.dll
+C:\Users\akifb\Documents\GitHub\60-Methodlar\obj\Debug\net7.0\refint\60-Methodlar.dll
+C:\Users\akifb\Documents\GitHub\60-Methodlar\obj\Debug\net7.0\60-Methodlar.pdb
+C:\Users\akifb\Documents\GitHub\60-Methodlar\obj\Debug\net7.0\60-Methodlar.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\60-Methodlar\obj\Debug\net7.0\ref\60-Methodlar.dll

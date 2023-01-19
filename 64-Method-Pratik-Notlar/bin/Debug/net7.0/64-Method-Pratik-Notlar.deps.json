@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "64-Method-Pratik-Notlar/1.0.0": {
+        "runtime": {
+          "64-Method-Pratik-Notlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "64-Method-Pratik-Notlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

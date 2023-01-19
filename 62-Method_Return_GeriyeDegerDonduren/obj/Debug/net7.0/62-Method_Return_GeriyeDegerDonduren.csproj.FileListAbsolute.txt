@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\bin\Debug\net7.0\62-Method_Return_GeriyeDegerDonduren.exe
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\bin\Debug\net7.0\62-Method_Return_GeriyeDegerDonduren.deps.json
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\bin\Debug\net7.0\62-Method_Return_GeriyeDegerDonduren.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\bin\Debug\net7.0\62-Method_Return_GeriyeDegerDonduren.dll
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\bin\Debug\net7.0\62-Method_Return_GeriyeDegerDonduren.pdb
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\obj\Debug\net7.0\62-Method_Return_GeriyeDegerDonduren.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\obj\Debug\net7.0\62-Method_Return_GeriyeDegerDonduren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\obj\Debug\net7.0\62-Method_Return_GeriyeDegerDonduren.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\obj\Debug\net7.0\62-Method_Return_GeriyeDegerDonduren.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\obj\Debug\net7.0\62-Method_Return_GeriyeDegerDonduren.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\obj\Debug\net7.0\62-Method_Return_GeriyeDegerDonduren.dll
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\obj\Debug\net7.0\refint\62-Method_Return_GeriyeDegerDonduren.dll
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\obj\Debug\net7.0\62-Method_Return_GeriyeDegerDonduren.pdb
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\obj\Debug\net7.0\62-Method_Return_GeriyeDegerDonduren.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\62-Method_Return_GeriyeDegerDonduren\obj\Debug\net7.0\ref\62-Method_Return_GeriyeDegerDonduren.dll

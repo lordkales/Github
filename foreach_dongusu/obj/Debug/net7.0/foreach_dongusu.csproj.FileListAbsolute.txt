@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\bin\Debug\net7.0\foreach_dongusu.exe
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\bin\Debug\net7.0\foreach_dongusu.deps.json
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\bin\Debug\net7.0\foreach_dongusu.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\bin\Debug\net7.0\foreach_dongusu.dll
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\bin\Debug\net7.0\foreach_dongusu.pdb
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\obj\Debug\net7.0\foreach_dongusu.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\obj\Debug\net7.0\foreach_dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\obj\Debug\net7.0\foreach_dongusu.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\obj\Debug\net7.0\foreach_dongusu.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\obj\Debug\net7.0\foreach_dongusu.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\obj\Debug\net7.0\foreach_dongusu.dll
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\obj\Debug\net7.0\refint\foreach_dongusu.dll
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\obj\Debug\net7.0\foreach_dongusu.pdb
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\obj\Debug\net7.0\foreach_dongusu.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\foreach_dongusu\obj\Debug\net7.0\ref\foreach_dongusu.dll

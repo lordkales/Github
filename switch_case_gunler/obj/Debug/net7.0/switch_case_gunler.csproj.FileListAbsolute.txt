@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\bin\Debug\net7.0\switch_case_gunler.exe
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\bin\Debug\net7.0\switch_case_gunler.deps.json
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\bin\Debug\net7.0\switch_case_gunler.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\bin\Debug\net7.0\switch_case_gunler.dll
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\bin\Debug\net7.0\switch_case_gunler.pdb
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\obj\Debug\net7.0\switch_case_gunler.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\obj\Debug\net7.0\switch_case_gunler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\obj\Debug\net7.0\switch_case_gunler.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\obj\Debug\net7.0\switch_case_gunler.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\obj\Debug\net7.0\switch_case_gunler.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\obj\Debug\net7.0\switch_case_gunler.dll
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\obj\Debug\net7.0\refint\switch_case_gunler.dll
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\obj\Debug\net7.0\switch_case_gunler.pdb
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\obj\Debug\net7.0\switch_case_gunler.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\switch_case_gunler\obj\Debug\net7.0\ref\switch_case_gunler.dll

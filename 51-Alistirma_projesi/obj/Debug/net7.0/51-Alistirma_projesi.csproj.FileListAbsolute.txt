@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\bin\Debug\net7.0\51-Alistirma_projesi.exe
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\bin\Debug\net7.0\51-Alistirma_projesi.deps.json
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\bin\Debug\net7.0\51-Alistirma_projesi.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\bin\Debug\net7.0\51-Alistirma_projesi.dll
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\bin\Debug\net7.0\51-Alistirma_projesi.pdb
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\obj\Debug\net7.0\51-Alistirma_projesi.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\obj\Debug\net7.0\51-Alistirma_projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\obj\Debug\net7.0\51-Alistirma_projesi.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\obj\Debug\net7.0\51-Alistirma_projesi.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\obj\Debug\net7.0\51-Alistirma_projesi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\obj\Debug\net7.0\51-Alistirma_projesi.dll
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\obj\Debug\net7.0\refint\51-Alistirma_projesi.dll
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\obj\Debug\net7.0\51-Alistirma_projesi.pdb
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\obj\Debug\net7.0\51-Alistirma_projesi.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\51-Alistirma_projesi\obj\Debug\net7.0\ref\51-Alistirma_projesi.dll

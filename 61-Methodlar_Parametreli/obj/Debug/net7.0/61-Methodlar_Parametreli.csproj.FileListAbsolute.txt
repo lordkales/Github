@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\bin\Debug\net7.0\61-Methodlar_Parametreli.exe
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\bin\Debug\net7.0\61-Methodlar_Parametreli.deps.json
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\bin\Debug\net7.0\61-Methodlar_Parametreli.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\bin\Debug\net7.0\61-Methodlar_Parametreli.dll
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\bin\Debug\net7.0\61-Methodlar_Parametreli.pdb
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\obj\Debug\net7.0\61-Methodlar_Parametreli.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\obj\Debug\net7.0\61-Methodlar_Parametreli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\obj\Debug\net7.0\61-Methodlar_Parametreli.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\obj\Debug\net7.0\61-Methodlar_Parametreli.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\obj\Debug\net7.0\61-Methodlar_Parametreli.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\obj\Debug\net7.0\61-Methodlar_Parametreli.dll
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\obj\Debug\net7.0\refint\61-Methodlar_Parametreli.dll
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\obj\Debug\net7.0\61-Methodlar_Parametreli.pdb
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\obj\Debug\net7.0\61-Methodlar_Parametreli.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\61-Methodlar_Parametreli\obj\Debug\net7.0\ref\61-Methodlar_Parametreli.dll
