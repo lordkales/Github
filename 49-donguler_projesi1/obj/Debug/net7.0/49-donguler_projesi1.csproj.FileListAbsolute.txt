@@ -1,0 +1,15 @@
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\bin\Debug\net7.0\49-donguler_projesi1.exe
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\bin\Debug\net7.0\49-donguler_projesi1.deps.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\bin\Debug\net7.0\49-donguler_projesi1.runtimeconfig.json
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\bin\Debug\net7.0\49-donguler_projesi1.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\bin\Debug\net7.0\49-donguler_projesi1.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\obj\Debug\net7.0\49-donguler_projesi1.csproj.AssemblyReference.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\obj\Debug\net7.0\49-donguler_projesi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\obj\Debug\net7.0\49-donguler_projesi1.AssemblyInfoInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\obj\Debug\net7.0\49-donguler_projesi1.AssemblyInfo.cs
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\obj\Debug\net7.0\49-donguler_projesi1.csproj.CoreCompileInputs.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\obj\Debug\net7.0\49-donguler_projesi1.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\obj\Debug\net7.0\refint\49-donguler_projesi1.dll
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\obj\Debug\net7.0\49-donguler_projesi1.pdb
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\obj\Debug\net7.0\49-donguler_projesi1.genruntimeconfig.cache
+C:\Users\OR\Documents\Visual Studio Code\sites\Github\49-donguler_projesi1\obj\Debug\net7.0\ref\49-donguler_projesi1.dll
