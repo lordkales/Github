@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\bin\Debug\net7.0\65-Method_Pratik_Sayi_Karsilastir.exe
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\bin\Debug\net7.0\65-Method_Pratik_Sayi_Karsilastir.deps.json
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\bin\Debug\net7.0\65-Method_Pratik_Sayi_Karsilastir.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\bin\Debug\net7.0\65-Method_Pratik_Sayi_Karsilastir.dll
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\bin\Debug\net7.0\65-Method_Pratik_Sayi_Karsilastir.pdb
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\obj\Debug\net7.0\65-Method_Pratik_Sayi_Karsilastir.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\obj\Debug\net7.0\65-Method_Pratik_Sayi_Karsilastir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\obj\Debug\net7.0\65-Method_Pratik_Sayi_Karsilastir.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\obj\Debug\net7.0\65-Method_Pratik_Sayi_Karsilastir.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\obj\Debug\net7.0\65-Method_Pratik_Sayi_Karsilastir.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\obj\Debug\net7.0\65-Method_Pratik_Sayi_Karsilastir.dll
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\obj\Debug\net7.0\refint\65-Method_Pratik_Sayi_Karsilastir.dll
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\obj\Debug\net7.0\65-Method_Pratik_Sayi_Karsilastir.pdb
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\obj\Debug\net7.0\65-Method_Pratik_Sayi_Karsilastir.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\65-Method_Pratik_Sayi_Karsilastir\obj\Debug\net7.0\ref\65-Method_Pratik_Sayi_Karsilastir.dll

@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\bin\Debug\net7.0\67-Class_Olusturma.exe
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\bin\Debug\net7.0\67-Class_Olusturma.deps.json
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\bin\Debug\net7.0\67-Class_Olusturma.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\bin\Debug\net7.0\67-Class_Olusturma.dll
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\bin\Debug\net7.0\67-Class_Olusturma.pdb
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\obj\Debug\net7.0\67-Class_Olusturma.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\obj\Debug\net7.0\67-Class_Olusturma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\obj\Debug\net7.0\67-Class_Olusturma.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\obj\Debug\net7.0\67-Class_Olusturma.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\obj\Debug\net7.0\67-Class_Olusturma.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\obj\Debug\net7.0\67-Class_Olusturma.dll
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\obj\Debug\net7.0\refint\67-Class_Olusturma.dll
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\obj\Debug\net7.0\67-Class_Olusturma.pdb
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\obj\Debug\net7.0\67-Class_Olusturma.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\67-Class_Olusturma\obj\Debug\net7.0\ref\67-Class_Olusturma.dll

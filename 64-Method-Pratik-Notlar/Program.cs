@@ -3,22 +3,24 @@
     private static void Main(string[] args)
     {
         // Kullanıcının girdiği sayının tek mi çift mi olduğunu yazdıran kodlar
-        Console.WriteLine("Lütfen bir sayı giriniz: ");
-        int sayi = Convert.ToInt32(Console.ReadLine());
-        int kalan=kontrol(sayi);
+       Console.WriteLine("Lütfen bir sayı giriniz: ");
 
-        if (kalan==0)
+       int sayi = Convert.ToInt32(Console.ReadLine());
+       
+       kontrol(sayi);
+        
+    }
+
+    static void kontrol (int sayi)
+    {
+        if (sayi%2==0)
         {
-            Console.WriteLine(sayi+" Sayısı Çift Sayıdır.");
+            Console.WriteLine("Sayınız Çift");
         }
         else
         {
-            Console.WriteLine(sayi+" Sayısı Tek Sayıdır.");
+            Console.WriteLine("Sayınız Tek");
         }
         
-    }
-    static int kontrol(int sayi)
-    {
-        return sayi%2;
     }
 }
