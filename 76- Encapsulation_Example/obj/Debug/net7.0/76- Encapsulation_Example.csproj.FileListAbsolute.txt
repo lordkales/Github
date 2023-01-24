@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\bin\Debug\net7.0\76- Encapsulation_Example.exe
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\bin\Debug\net7.0\76- Encapsulation_Example.deps.json
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\bin\Debug\net7.0\76- Encapsulation_Example.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\bin\Debug\net7.0\76- Encapsulation_Example.dll
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\bin\Debug\net7.0\76- Encapsulation_Example.pdb
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\obj\Debug\net7.0\76- Encapsulation_Example.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\obj\Debug\net7.0\76- Encapsulation_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\obj\Debug\net7.0\76- Encapsulation_Example.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\obj\Debug\net7.0\76- Encapsulation_Example.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\obj\Debug\net7.0\76- Encapsulation_Example.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\obj\Debug\net7.0\76- Encapsulation_Example.dll
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\obj\Debug\net7.0\refint\76- Encapsulation_Example.dll
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\obj\Debug\net7.0\76- Encapsulation_Example.pdb
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\obj\Debug\net7.0\76- Encapsulation_Example.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\76- Encapsulation_Example\obj\Debug\net7.0\ref\76- Encapsulation_Example.dll

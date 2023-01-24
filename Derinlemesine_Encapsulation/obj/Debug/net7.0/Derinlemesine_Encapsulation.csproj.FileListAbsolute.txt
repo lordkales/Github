@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\bin\Debug\net7.0\Derinlemesine_Encapsulation.exe
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\bin\Debug\net7.0\Derinlemesine_Encapsulation.deps.json
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\bin\Debug\net7.0\Derinlemesine_Encapsulation.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\bin\Debug\net7.0\Derinlemesine_Encapsulation.dll
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\bin\Debug\net7.0\Derinlemesine_Encapsulation.pdb
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\obj\Debug\net7.0\Derinlemesine_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\obj\Debug\net7.0\Derinlemesine_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\obj\Debug\net7.0\Derinlemesine_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\obj\Debug\net7.0\Derinlemesine_Encapsulation.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\obj\Debug\net7.0\Derinlemesine_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\obj\Debug\net7.0\Derinlemesine_Encapsulation.dll
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\obj\Debug\net7.0\refint\Derinlemesine_Encapsulation.dll
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\obj\Debug\net7.0\Derinlemesine_Encapsulation.pdb
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\obj\Debug\net7.0\Derinlemesine_Encapsulation.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\Derinlemesine_Encapsulation\obj\Debug\net7.0\ref\Derinlemesine_Encapsulation.dll

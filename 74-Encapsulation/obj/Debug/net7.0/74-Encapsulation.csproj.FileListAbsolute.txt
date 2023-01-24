@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\bin\Debug\net7.0\74-Encapsulation.exe
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\bin\Debug\net7.0\74-Encapsulation.deps.json
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\bin\Debug\net7.0\74-Encapsulation.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\bin\Debug\net7.0\74-Encapsulation.dll
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\bin\Debug\net7.0\74-Encapsulation.pdb
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\obj\Debug\net7.0\74-Encapsulation.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\obj\Debug\net7.0\74-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\obj\Debug\net7.0\74-Encapsulation.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\obj\Debug\net7.0\74-Encapsulation.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\obj\Debug\net7.0\74-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\obj\Debug\net7.0\74-Encapsulation.dll
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\obj\Debug\net7.0\refint\74-Encapsulation.dll
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\obj\Debug\net7.0\74-Encapsulation.pdb
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\obj\Debug\net7.0\74-Encapsulation.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\74-Encapsulation\obj\Debug\net7.0\ref\74-Encapsulation.dll

@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\bin\Debug\net7.0\75-Encapsulation_Property.exe
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\bin\Debug\net7.0\75-Encapsulation_Property.deps.json
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\bin\Debug\net7.0\75-Encapsulation_Property.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\bin\Debug\net7.0\75-Encapsulation_Property.dll
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\bin\Debug\net7.0\75-Encapsulation_Property.pdb
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\obj\Debug\net7.0\75-Encapsulation_Property.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\obj\Debug\net7.0\75-Encapsulation_Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\obj\Debug\net7.0\75-Encapsulation_Property.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\obj\Debug\net7.0\75-Encapsulation_Property.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\obj\Debug\net7.0\75-Encapsulation_Property.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\obj\Debug\net7.0\75-Encapsulation_Property.dll
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\obj\Debug\net7.0\refint\75-Encapsulation_Property.dll
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\obj\Debug\net7.0\75-Encapsulation_Property.pdb
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\obj\Debug\net7.0\75-Encapsulation_Property.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\75-Encapsulation_Property\obj\Debug\net7.0\ref\75-Encapsulation_Property.dll
