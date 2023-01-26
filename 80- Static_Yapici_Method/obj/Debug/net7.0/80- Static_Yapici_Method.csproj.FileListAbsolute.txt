@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\bin\Debug\net7.0\80- Static_Yapici_Method.exe
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\bin\Debug\net7.0\80- Static_Yapici_Method.deps.json
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\bin\Debug\net7.0\80- Static_Yapici_Method.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\bin\Debug\net7.0\80- Static_Yapici_Method.dll
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\bin\Debug\net7.0\80- Static_Yapici_Method.pdb
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\obj\Debug\net7.0\80- Static_Yapici_Method.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\obj\Debug\net7.0\80- Static_Yapici_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\obj\Debug\net7.0\80- Static_Yapici_Method.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\obj\Debug\net7.0\80- Static_Yapici_Method.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\obj\Debug\net7.0\80- Static_Yapici_Method.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\obj\Debug\net7.0\80- Static_Yapici_Method.dll
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\obj\Debug\net7.0\refint\80- Static_Yapici_Method.dll
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\obj\Debug\net7.0\80- Static_Yapici_Method.pdb
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\obj\Debug\net7.0\80- Static_Yapici_Method.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\80- Static_Yapici_Method\obj\Debug\net7.0\ref\80- Static_Yapici_Method.dll

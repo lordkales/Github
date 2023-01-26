@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\bin\Debug\net7.0\78-Static_Method_Kullanim.exe
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\bin\Debug\net7.0\78-Static_Method_Kullanim.deps.json
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\bin\Debug\net7.0\78-Static_Method_Kullanim.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\bin\Debug\net7.0\78-Static_Method_Kullanim.dll
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\bin\Debug\net7.0\78-Static_Method_Kullanim.pdb
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\obj\Debug\net7.0\78-Static_Method_Kullanim.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\obj\Debug\net7.0\78-Static_Method_Kullanim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\obj\Debug\net7.0\78-Static_Method_Kullanim.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\obj\Debug\net7.0\78-Static_Method_Kullanim.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\obj\Debug\net7.0\78-Static_Method_Kullanim.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\obj\Debug\net7.0\78-Static_Method_Kullanim.dll
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\obj\Debug\net7.0\refint\78-Static_Method_Kullanim.dll
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\obj\Debug\net7.0\78-Static_Method_Kullanim.pdb
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\obj\Debug\net7.0\78-Static_Method_Kullanim.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\78-Static_Method_Kullanim\obj\Debug\net7.0\ref\78-Static_Method_Kullanim.dll

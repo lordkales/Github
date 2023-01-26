@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\bin\Debug\net7.0\79- Static_Degisken_Kullanimi.exe
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\bin\Debug\net7.0\79- Static_Degisken_Kullanimi.deps.json
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\bin\Debug\net7.0\79- Static_Degisken_Kullanimi.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\bin\Debug\net7.0\79- Static_Degisken_Kullanimi.dll
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\bin\Debug\net7.0\79- Static_Degisken_Kullanimi.pdb
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\obj\Debug\net7.0\79- Static_Degisken_Kullanimi.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\obj\Debug\net7.0\79- Static_Degisken_Kullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\obj\Debug\net7.0\79- Static_Degisken_Kullanimi.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\obj\Debug\net7.0\79- Static_Degisken_Kullanimi.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\obj\Debug\net7.0\79- Static_Degisken_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\obj\Debug\net7.0\79- Static_Degisken_Kullanimi.dll
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\obj\Debug\net7.0\refint\79- Static_Degisken_Kullanimi.dll
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\obj\Debug\net7.0\79- Static_Degisken_Kullanimi.pdb
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\obj\Debug\net7.0\79- Static_Degisken_Kullanimi.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\79- Static_Degisken_Kullanimi\obj\Debug\net7.0\ref\79- Static_Degisken_Kullanimi.dll

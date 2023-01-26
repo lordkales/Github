@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\bin\Debug\net7.0\Static_Constructor_Tekrar.exe
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\bin\Debug\net7.0\Static_Constructor_Tekrar.deps.json
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\bin\Debug\net7.0\Static_Constructor_Tekrar.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\bin\Debug\net7.0\Static_Constructor_Tekrar.dll
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\bin\Debug\net7.0\Static_Constructor_Tekrar.pdb
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\obj\Debug\net7.0\Static_Constructor_Tekrar.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\obj\Debug\net7.0\Static_Constructor_Tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\obj\Debug\net7.0\Static_Constructor_Tekrar.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\obj\Debug\net7.0\Static_Constructor_Tekrar.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\obj\Debug\net7.0\Static_Constructor_Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\obj\Debug\net7.0\Static_Constructor_Tekrar.dll
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\obj\Debug\net7.0\refint\Static_Constructor_Tekrar.dll
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\obj\Debug\net7.0\Static_Constructor_Tekrar.pdb
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\obj\Debug\net7.0\Static_Constructor_Tekrar.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\Static_Constructor_Tekrar\obj\Debug\net7.0\ref\Static_Constructor_Tekrar.dll

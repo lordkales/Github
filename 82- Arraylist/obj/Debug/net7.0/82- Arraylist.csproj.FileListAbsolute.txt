@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\82- Arraylist\bin\Debug\net7.0\82- Arraylist.exe
+C:\Users\akifb\Documents\GitHub\82- Arraylist\bin\Debug\net7.0\82- Arraylist.deps.json
+C:\Users\akifb\Documents\GitHub\82- Arraylist\bin\Debug\net7.0\82- Arraylist.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\82- Arraylist\bin\Debug\net7.0\82- Arraylist.dll
+C:\Users\akifb\Documents\GitHub\82- Arraylist\bin\Debug\net7.0\82- Arraylist.pdb
+C:\Users\akifb\Documents\GitHub\82- Arraylist\obj\Debug\net7.0\82- Arraylist.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\82- Arraylist\obj\Debug\net7.0\82- Arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\82- Arraylist\obj\Debug\net7.0\82- Arraylist.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\82- Arraylist\obj\Debug\net7.0\82- Arraylist.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\82- Arraylist\obj\Debug\net7.0\82- Arraylist.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\82- Arraylist\obj\Debug\net7.0\82- Arraylist.dll
+C:\Users\akifb\Documents\GitHub\82- Arraylist\obj\Debug\net7.0\refint\82- Arraylist.dll
+C:\Users\akifb\Documents\GitHub\82- Arraylist\obj\Debug\net7.0\82- Arraylist.pdb
+C:\Users\akifb\Documents\GitHub\82- Arraylist\obj\Debug\net7.0\82- Arraylist.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\82- Arraylist\obj\Debug\net7.0\ref\82- Arraylist.dll
