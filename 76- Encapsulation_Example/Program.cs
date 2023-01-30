@@ -5,55 +5,51 @@
         // Personelin TC kimlik numarasını al;
         // SET şartları: TC No'yu 11 krkter al, tüm krkterler sysal
         // GET şartı: İlk 5 karakteri göster
-        
-        string tcyaz = Console.ReadLine();
-
-        personel gelentc = new personel();
-        gelentc.Tcno=tcyaz;
-       
+        Personel p1 = new Personel();
+        p1.TCNO=Console.ReadLine();
+        Console.WriteLine(p1.TCNO);
     }
-public class personel
+    class Personel
     {
-        
         private string tcno;
-        public string Tcno
-        {
+
+        public string TCNO 
+        { 
             get
-            { 
-                return tcno;
-            }
+            {
+                    return tcno.Substring(0,5);
             
-            set 
-            { 
-                bool Kontrol=false;
-                if (value.Length==11)
+            } 
+            set
+            {
+                bool kontrol = true;
+                if (value.Length == 11)
                 {
                     for (int i = 0; i < value.Length; i++)
                     {
-                        bool sayimi=char.IsNumber(value[i]);
-                        if (sayimi)
+                        
+                        if (char.IsNumber(value[i])==false)
                         {
-                            // Birşey yapma
+                            kontrol=false;
+                            break;
                         }
                         else
                         {
-                            Kontrol=true;
-                            break;
+                            //Döngü devam etsin bişey yapma
                         }
                     }
-                    if (Kontrol)
+                    if (kontrol==false)
                     {
-                        Console.WriteLine("Lütfen TC No kontrol edin!");
+                        Console.WriteLine("HATALI TC GİRDİNİZ");
                     }
                     else
                     {
-                        tcno=value;
-                    }
-                    
-                } 
+                        tcno=value; // Girilen değer 11 karakter ve tamamı sayı ise değişkene ata;
+                    } 
+                }
                 else
                 {
-                    Console.WriteLine("Girdiğiniz TC 11 karakter değil");  
+                    Console.WriteLine("LÜTFEN 11 HANELİ TC GİRİN");
                 }
             }
         }

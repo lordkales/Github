@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\bin\Debug\net7.0\84- Inheritance_Kullanimi.exe
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\bin\Debug\net7.0\84- Inheritance_Kullanimi.deps.json
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\bin\Debug\net7.0\84- Inheritance_Kullanimi.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\bin\Debug\net7.0\84- Inheritance_Kullanimi.dll
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\bin\Debug\net7.0\84- Inheritance_Kullanimi.pdb
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\obj\Debug\net7.0\84- Inheritance_Kullanimi.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\obj\Debug\net7.0\84- Inheritance_Kullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\obj\Debug\net7.0\84- Inheritance_Kullanimi.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\obj\Debug\net7.0\84- Inheritance_Kullanimi.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\obj\Debug\net7.0\84- Inheritance_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\obj\Debug\net7.0\84- Inheritance_Kullanimi.dll
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\obj\Debug\net7.0\refint\84- Inheritance_Kullanimi.dll
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\obj\Debug\net7.0\84- Inheritance_Kullanimi.pdb
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\obj\Debug\net7.0\84- Inheritance_Kullanimi.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\84- Inheritance_Kullanimi\obj\Debug\net7.0\ref\84- Inheritance_Kullanimi.dll

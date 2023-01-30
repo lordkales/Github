@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\bin\Debug\net7.0\Encapsulation_Example2.exe
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\bin\Debug\net7.0\Encapsulation_Example2.deps.json
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\bin\Debug\net7.0\Encapsulation_Example2.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\bin\Debug\net7.0\Encapsulation_Example2.dll
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\bin\Debug\net7.0\Encapsulation_Example2.pdb
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\obj\Debug\net7.0\Encapsulation_Example2.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\obj\Debug\net7.0\Encapsulation_Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\obj\Debug\net7.0\Encapsulation_Example2.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\obj\Debug\net7.0\Encapsulation_Example2.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\obj\Debug\net7.0\Encapsulation_Example2.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\obj\Debug\net7.0\Encapsulation_Example2.dll
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\obj\Debug\net7.0\refint\Encapsulation_Example2.dll
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\obj\Debug\net7.0\Encapsulation_Example2.pdb
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\obj\Debug\net7.0\Encapsulation_Example2.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\Encapsulation_Example2\obj\Debug\net7.0\ref\Encapsulation_Example2.dll

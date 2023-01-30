@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\bin\Debug\net7.0\2- Oop_Class_Kullanimi.exe
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\bin\Debug\net7.0\2- Oop_Class_Kullanimi.deps.json
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\bin\Debug\net7.0\2- Oop_Class_Kullanimi.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\bin\Debug\net7.0\2- Oop_Class_Kullanimi.dll
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\bin\Debug\net7.0\2- Oop_Class_Kullanimi.pdb
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\obj\Debug\net7.0\2- Oop_Class_Kullanimi.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\obj\Debug\net7.0\2- Oop_Class_Kullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\obj\Debug\net7.0\2- Oop_Class_Kullanimi.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\obj\Debug\net7.0\2- Oop_Class_Kullanimi.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\obj\Debug\net7.0\2- Oop_Class_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\obj\Debug\net7.0\2- Oop_Class_Kullanimi.dll
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\obj\Debug\net7.0\refint\2- Oop_Class_Kullanimi.dll
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\obj\Debug\net7.0\2- Oop_Class_Kullanimi.pdb
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\obj\Debug\net7.0\2- Oop_Class_Kullanimi.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\2- Oop_Class_Kullanimi\obj\Debug\net7.0\ref\2- Oop_Class_Kullanimi.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "2- Oop_Class_Kullanimi/1.0.0": {
+        "runtime": {
+          "2- Oop_Class_Kullanimi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2- Oop_Class_Kullanimi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
