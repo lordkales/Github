@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\My_Method_Example\bin\Debug\net7.0\My_Method_Example.exe
+C:\Users\akifb\Documents\GitHub\My_Method_Example\bin\Debug\net7.0\My_Method_Example.deps.json
+C:\Users\akifb\Documents\GitHub\My_Method_Example\bin\Debug\net7.0\My_Method_Example.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\My_Method_Example\bin\Debug\net7.0\My_Method_Example.dll
+C:\Users\akifb\Documents\GitHub\My_Method_Example\bin\Debug\net7.0\My_Method_Example.pdb
+C:\Users\akifb\Documents\GitHub\My_Method_Example\obj\Debug\net7.0\My_Method_Example.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\My_Method_Example\obj\Debug\net7.0\My_Method_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\My_Method_Example\obj\Debug\net7.0\My_Method_Example.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\My_Method_Example\obj\Debug\net7.0\My_Method_Example.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\My_Method_Example\obj\Debug\net7.0\My_Method_Example.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\My_Method_Example\obj\Debug\net7.0\My_Method_Example.dll
+C:\Users\akifb\Documents\GitHub\My_Method_Example\obj\Debug\net7.0\refint\My_Method_Example.dll
+C:\Users\akifb\Documents\GitHub\My_Method_Example\obj\Debug\net7.0\My_Method_Example.pdb
+C:\Users\akifb\Documents\GitHub\My_Method_Example\obj\Debug\net7.0\My_Method_Example.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\My_Method_Example\obj\Debug\net7.0\ref\My_Method_Example.dll

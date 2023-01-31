@@ -2,45 +2,38 @@
 {
     private static void Main(string[] args)
     {
-        kullanici k1 = new kullanici(1,"Burak Akif","Boylu");
-
-        k1.bilgilerigoster();
-        k1.zamyap(500);
-        
+    personel p1 = new personel(1,"burak","boylu");
+    p1.bilgilerigoster();
+    p1.zamyap(5000);
     }
-    public class kullanici
+    public class personel
     {
-        private int kullaniciID { get; set; }
+        private int kullaniciid { get; set; }
         private string isim { get; set; }
-        private string soyisim { get; set; }
+        private string soyisim {get; set;}
         private static int maas { get; set; }
 
-        
-        static kullanici()
+        static personel()
         {
-            maas=32000;
+        maas=30000;
         }
-
-        public kullanici(int _kullaniciid, string _isim, string _soyisim)
+        public personel(int _kullaniciid, string _isim, string _soyisim)
         {
-            kullaniciID=_kullaniciid;
+            kullaniciid=_kullaniciid;
             isim=_isim;
             soyisim=_soyisim;
         }
-
         public void bilgilerigoster()
         {
-            Console.WriteLine("Kullanıcı Bilgileri");
-            Console.WriteLine("ID: "+kullaniciID);
-            Console.WriteLine("İsim: "+isim);
-            Console.WriteLine("Soyisim: "+soyisim);
+            Console.WriteLine("Kullanıcı ID: "+kullaniciid);
+            Console.WriteLine("Kullanıcı İsim: "+isim);
+            Console.WriteLine("Kullanıcı Soyisim: "+soyisim);
             Console.WriteLine("Maaş: "+maas);
         }
-
-        public void zamyap(int zammiktari)
+        public void zamyap(int zam)
         {
-            Console.WriteLine("Kullanıcıya Zam Yapılıyor.");
-            Console.WriteLine("Yeni Maaş: "+(maas+zammiktari));
+            Console.WriteLine("Zam Yapıldı");
+            Console.WriteLine("Şuanki maaşı: "+(maas+zam));
         }
     }
 }

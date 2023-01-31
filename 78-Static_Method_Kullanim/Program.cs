@@ -3,18 +3,22 @@
     private static void Main(string[] args)
     {
         // STATIC KULLANIMI
-        Personel.isimsoyisim();
-        Personel.topla(2,3);
+        // Eğer sınıf içindeki metot yada değişken statik ise direkt class ismi üzerinden erişebiliriz. Obje oluşturmamıza gerek yoktur.
+       personel.PERSONEL();
+       personel.TOPLA(1,2);
+    
     }
-    public class Personel
+    public class personel
     {
-        public static void isimsoyisim()
+        public static void PERSONEL()
         {
-            Console.WriteLine("Burak Akif Boylu");
+            Console.WriteLine("Burak");
         }
-        public static void topla(int sayi1, int sayi2)
+        public static void TOPLA(int a, int b)
         {
-            Console.WriteLine("İki Sayının Toplamı: "+(sayi1+sayi2));
+            Console.WriteLine(a+b);
         }
+
     }
+    
 }
