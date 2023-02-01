@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\bin\Debug\net7.0\90- Classlar_Arasi_Inheritance.exe
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\bin\Debug\net7.0\90- Classlar_Arasi_Inheritance.deps.json
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\bin\Debug\net7.0\90- Classlar_Arasi_Inheritance.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\bin\Debug\net7.0\90- Classlar_Arasi_Inheritance.dll
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\bin\Debug\net7.0\90- Classlar_Arasi_Inheritance.pdb
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\obj\Debug\net7.0\90- Classlar_Arasi_Inheritance.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\obj\Debug\net7.0\90- Classlar_Arasi_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\obj\Debug\net7.0\90- Classlar_Arasi_Inheritance.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\obj\Debug\net7.0\90- Classlar_Arasi_Inheritance.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\obj\Debug\net7.0\90- Classlar_Arasi_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\obj\Debug\net7.0\90- Classlar_Arasi_Inheritance.dll
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\obj\Debug\net7.0\refint\90- Classlar_Arasi_Inheritance.dll
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\obj\Debug\net7.0\90- Classlar_Arasi_Inheritance.pdb
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\obj\Debug\net7.0\90- Classlar_Arasi_Inheritance.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\90- Classlar_Arasi_Inheritance\obj\Debug\net7.0\ref\90- Classlar_Arasi_Inheritance.dll

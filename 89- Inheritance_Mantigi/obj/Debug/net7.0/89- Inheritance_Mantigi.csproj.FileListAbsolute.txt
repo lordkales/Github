@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\bin\Debug\net7.0\89- Inheritance_Mantigi.exe
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\bin\Debug\net7.0\89- Inheritance_Mantigi.deps.json
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\bin\Debug\net7.0\89- Inheritance_Mantigi.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\bin\Debug\net7.0\89- Inheritance_Mantigi.dll
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\bin\Debug\net7.0\89- Inheritance_Mantigi.pdb
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\obj\Debug\net7.0\89- Inheritance_Mantigi.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\obj\Debug\net7.0\89- Inheritance_Mantigi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\obj\Debug\net7.0\89- Inheritance_Mantigi.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\obj\Debug\net7.0\89- Inheritance_Mantigi.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\obj\Debug\net7.0\89- Inheritance_Mantigi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\obj\Debug\net7.0\89- Inheritance_Mantigi.dll
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\obj\Debug\net7.0\refint\89- Inheritance_Mantigi.dll
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\obj\Debug\net7.0\89- Inheritance_Mantigi.pdb
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\obj\Debug\net7.0\89- Inheritance_Mantigi.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\89- Inheritance_Mantigi\obj\Debug\net7.0\ref\89- Inheritance_Mantigi.dll
