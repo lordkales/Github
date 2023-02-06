@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\bin\Debug\net7.0\92- Sealed_Anahtar_Kelimesi.exe
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\bin\Debug\net7.0\92- Sealed_Anahtar_Kelimesi.deps.json
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\bin\Debug\net7.0\92- Sealed_Anahtar_Kelimesi.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\bin\Debug\net7.0\92- Sealed_Anahtar_Kelimesi.dll
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\bin\Debug\net7.0\92- Sealed_Anahtar_Kelimesi.pdb
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\obj\Debug\net7.0\92- Sealed_Anahtar_Kelimesi.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\obj\Debug\net7.0\92- Sealed_Anahtar_Kelimesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\obj\Debug\net7.0\92- Sealed_Anahtar_Kelimesi.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\obj\Debug\net7.0\92- Sealed_Anahtar_Kelimesi.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\obj\Debug\net7.0\92- Sealed_Anahtar_Kelimesi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\obj\Debug\net7.0\92- Sealed_Anahtar_Kelimesi.dll
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\obj\Debug\net7.0\refint\92- Sealed_Anahtar_Kelimesi.dll
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\obj\Debug\net7.0\92- Sealed_Anahtar_Kelimesi.pdb
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\obj\Debug\net7.0\92- Sealed_Anahtar_Kelimesi.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\92- Sealed_Anahtar_Kelimesi\obj\Debug\net7.0\ref\92- Sealed_Anahtar_Kelimesi.dll

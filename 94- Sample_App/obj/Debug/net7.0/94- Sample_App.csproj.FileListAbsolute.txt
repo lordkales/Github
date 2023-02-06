@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\94- Sample_App\bin\Debug\net7.0\94- Sample_App.exe
+C:\Users\akifb\Documents\GitHub\94- Sample_App\bin\Debug\net7.0\94- Sample_App.deps.json
+C:\Users\akifb\Documents\GitHub\94- Sample_App\bin\Debug\net7.0\94- Sample_App.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\94- Sample_App\bin\Debug\net7.0\94- Sample_App.dll
+C:\Users\akifb\Documents\GitHub\94- Sample_App\bin\Debug\net7.0\94- Sample_App.pdb
+C:\Users\akifb\Documents\GitHub\94- Sample_App\obj\Debug\net7.0\94- Sample_App.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\94- Sample_App\obj\Debug\net7.0\94- Sample_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\94- Sample_App\obj\Debug\net7.0\94- Sample_App.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\94- Sample_App\obj\Debug\net7.0\94- Sample_App.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\94- Sample_App\obj\Debug\net7.0\94- Sample_App.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\94- Sample_App\obj\Debug\net7.0\94- Sample_App.dll
+C:\Users\akifb\Documents\GitHub\94- Sample_App\obj\Debug\net7.0\refint\94- Sample_App.dll
+C:\Users\akifb\Documents\GitHub\94- Sample_App\obj\Debug\net7.0\94- Sample_App.pdb
+C:\Users\akifb\Documents\GitHub\94- Sample_App\obj\Debug\net7.0\94- Sample_App.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\94- Sample_App\obj\Debug\net7.0\ref\94- Sample_App.dll

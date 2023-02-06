@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\bin\Debug\net7.0\93- Protected_Erisim.exe
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\bin\Debug\net7.0\93- Protected_Erisim.deps.json
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\bin\Debug\net7.0\93- Protected_Erisim.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\bin\Debug\net7.0\93- Protected_Erisim.dll
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\bin\Debug\net7.0\93- Protected_Erisim.pdb
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\obj\Debug\net7.0\93- Protected_Erisim.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\obj\Debug\net7.0\93- Protected_Erisim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\obj\Debug\net7.0\93- Protected_Erisim.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\obj\Debug\net7.0\93- Protected_Erisim.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\obj\Debug\net7.0\93- Protected_Erisim.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\obj\Debug\net7.0\93- Protected_Erisim.dll
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\obj\Debug\net7.0\refint\93- Protected_Erisim.dll
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\obj\Debug\net7.0\93- Protected_Erisim.pdb
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\obj\Debug\net7.0\93- Protected_Erisim.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\93- Protected_Erisim\obj\Debug\net7.0\ref\93- Protected_Erisim.dll
