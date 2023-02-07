@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Encapsulation_Genel_Tekrar/1.0.0": {
+        "runtime": {
+          "Encapsulation_Genel_Tekrar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encapsulation_Genel_Tekrar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

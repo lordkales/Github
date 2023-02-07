@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\bin\Debug\net7.0\Encapsulation_Genel_Tekrar.exe
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\bin\Debug\net7.0\Encapsulation_Genel_Tekrar.deps.json
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\bin\Debug\net7.0\Encapsulation_Genel_Tekrar.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\bin\Debug\net7.0\Encapsulation_Genel_Tekrar.dll
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\bin\Debug\net7.0\Encapsulation_Genel_Tekrar.pdb
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\obj\Debug\net7.0\Encapsulation_Genel_Tekrar.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\obj\Debug\net7.0\Encapsulation_Genel_Tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\obj\Debug\net7.0\Encapsulation_Genel_Tekrar.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\obj\Debug\net7.0\Encapsulation_Genel_Tekrar.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\obj\Debug\net7.0\Encapsulation_Genel_Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\obj\Debug\net7.0\Encapsulation_Genel_Tekrar.dll
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\obj\Debug\net7.0\refint\Encapsulation_Genel_Tekrar.dll
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\obj\Debug\net7.0\Encapsulation_Genel_Tekrar.pdb
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\obj\Debug\net7.0\Encapsulation_Genel_Tekrar.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\Encapsulation_Genel_Tekrar\obj\Debug\net7.0\ref\Encapsulation_Genel_Tekrar.dll

@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\obj\Debug\net7.0\96- Polymorphism.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\obj\Debug\net7.0\96- Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\obj\Debug\net7.0\96- Polymorphism.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\obj\Debug\net7.0\96- Polymorphism.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\obj\Debug\net7.0\96- Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\bin\Debug\net7.0\96- Polymorphism.exe
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\bin\Debug\net7.0\96- Polymorphism.deps.json
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\bin\Debug\net7.0\96- Polymorphism.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\bin\Debug\net7.0\96- Polymorphism.dll
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\bin\Debug\net7.0\96- Polymorphism.pdb
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\obj\Debug\net7.0\96- Polymorphism.dll
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\obj\Debug\net7.0\refint\96- Polymorphism.dll
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\obj\Debug\net7.0\96- Polymorphism.pdb
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\obj\Debug\net7.0\96- Polymorphism.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\96- Polymorphism\obj\Debug\net7.0\ref\96- Polymorphism.dll
