@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\bin\Debug\net7.0\100- Interface_Amaci.exe
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\bin\Debug\net7.0\100- Interface_Amaci.deps.json
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\bin\Debug\net7.0\100- Interface_Amaci.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\bin\Debug\net7.0\100- Interface_Amaci.dll
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\bin\Debug\net7.0\100- Interface_Amaci.pdb
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\obj\Debug\net7.0\100- Interface_Amaci.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\obj\Debug\net7.0\100- Interface_Amaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\obj\Debug\net7.0\100- Interface_Amaci.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\obj\Debug\net7.0\100- Interface_Amaci.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\obj\Debug\net7.0\100- Interface_Amaci.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\obj\Debug\net7.0\100- Interface_Amaci.dll
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\obj\Debug\net7.0\refint\100- Interface_Amaci.dll
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\obj\Debug\net7.0\100- Interface_Amaci.pdb
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\obj\Debug\net7.0\100- Interface_Amaci.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\100- Interface_Amaci\obj\Debug\net7.0\ref\100- Interface_Amaci.dll

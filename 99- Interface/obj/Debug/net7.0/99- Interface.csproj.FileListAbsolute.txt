@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\99- Interface\bin\Debug\net7.0\99- Interface.exe
+C:\Users\akifb\Documents\GitHub\99- Interface\bin\Debug\net7.0\99- Interface.deps.json
+C:\Users\akifb\Documents\GitHub\99- Interface\bin\Debug\net7.0\99- Interface.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\99- Interface\bin\Debug\net7.0\99- Interface.dll
+C:\Users\akifb\Documents\GitHub\99- Interface\bin\Debug\net7.0\99- Interface.pdb
+C:\Users\akifb\Documents\GitHub\99- Interface\obj\Debug\net7.0\99- Interface.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\99- Interface\obj\Debug\net7.0\99- Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\99- Interface\obj\Debug\net7.0\99- Interface.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\99- Interface\obj\Debug\net7.0\99- Interface.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\99- Interface\obj\Debug\net7.0\99- Interface.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\99- Interface\obj\Debug\net7.0\99- Interface.dll
+C:\Users\akifb\Documents\GitHub\99- Interface\obj\Debug\net7.0\refint\99- Interface.dll
+C:\Users\akifb\Documents\GitHub\99- Interface\obj\Debug\net7.0\99- Interface.pdb
+C:\Users\akifb\Documents\GitHub\99- Interface\obj\Debug\net7.0\99- Interface.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\99- Interface\obj\Debug\net7.0\ref\99- Interface.dll

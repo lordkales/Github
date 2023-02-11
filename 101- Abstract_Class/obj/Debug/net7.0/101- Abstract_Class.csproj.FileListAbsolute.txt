@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\bin\Debug\net7.0\101- Abstract_Class.exe
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\bin\Debug\net7.0\101- Abstract_Class.deps.json
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\bin\Debug\net7.0\101- Abstract_Class.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\bin\Debug\net7.0\101- Abstract_Class.dll
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\bin\Debug\net7.0\101- Abstract_Class.pdb
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\obj\Debug\net7.0\101- Abstract_Class.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\obj\Debug\net7.0\101- Abstract_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\obj\Debug\net7.0\101- Abstract_Class.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\obj\Debug\net7.0\101- Abstract_Class.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\obj\Debug\net7.0\101- Abstract_Class.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\obj\Debug\net7.0\101- Abstract_Class.dll
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\obj\Debug\net7.0\refint\101- Abstract_Class.dll
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\obj\Debug\net7.0\101- Abstract_Class.pdb
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\obj\Debug\net7.0\101- Abstract_Class.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\101- Abstract_Class\obj\Debug\net7.0\ref\101- Abstract_Class.dll
