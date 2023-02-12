@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\bin\Debug\net7.0\104- Generic_Olmayan_ArrayList.exe
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\bin\Debug\net7.0\104- Generic_Olmayan_ArrayList.deps.json
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\bin\Debug\net7.0\104- Generic_Olmayan_ArrayList.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\bin\Debug\net7.0\104- Generic_Olmayan_ArrayList.dll
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\bin\Debug\net7.0\104- Generic_Olmayan_ArrayList.pdb
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\obj\Debug\net7.0\104- Generic_Olmayan_ArrayList.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\obj\Debug\net7.0\104- Generic_Olmayan_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\obj\Debug\net7.0\104- Generic_Olmayan_ArrayList.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\obj\Debug\net7.0\104- Generic_Olmayan_ArrayList.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\obj\Debug\net7.0\104- Generic_Olmayan_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\obj\Debug\net7.0\104- Generic_Olmayan_ArrayList.dll
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\obj\Debug\net7.0\refint\104- Generic_Olmayan_ArrayList.dll
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\obj\Debug\net7.0\104- Generic_Olmayan_ArrayList.pdb
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\obj\Debug\net7.0\104- Generic_Olmayan_ArrayList.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\104- Generic_Olmayan_ArrayList\obj\Debug\net7.0\ref\104- Generic_Olmayan_ArrayList.dll

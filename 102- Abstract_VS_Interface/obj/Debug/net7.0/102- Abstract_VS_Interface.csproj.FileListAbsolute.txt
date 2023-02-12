@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\bin\Debug\net7.0\102- Abstract_VS_Interface.exe
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\bin\Debug\net7.0\102- Abstract_VS_Interface.deps.json
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\bin\Debug\net7.0\102- Abstract_VS_Interface.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\bin\Debug\net7.0\102- Abstract_VS_Interface.dll
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\bin\Debug\net7.0\102- Abstract_VS_Interface.pdb
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\obj\Debug\net7.0\102- Abstract_VS_Interface.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\obj\Debug\net7.0\102- Abstract_VS_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\obj\Debug\net7.0\102- Abstract_VS_Interface.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\obj\Debug\net7.0\102- Abstract_VS_Interface.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\obj\Debug\net7.0\102- Abstract_VS_Interface.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\obj\Debug\net7.0\102- Abstract_VS_Interface.dll
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\obj\Debug\net7.0\refint\102- Abstract_VS_Interface.dll
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\obj\Debug\net7.0\102- Abstract_VS_Interface.pdb
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\obj\Debug\net7.0\102- Abstract_VS_Interface.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\102- Abstract_VS_Interface\obj\Debug\net7.0\ref\102- Abstract_VS_Interface.dll

@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\bin\Debug\net7.0\105- Generic_Olan_Koleksiyon.exe
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\bin\Debug\net7.0\105- Generic_Olan_Koleksiyon.deps.json
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\bin\Debug\net7.0\105- Generic_Olan_Koleksiyon.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\bin\Debug\net7.0\105- Generic_Olan_Koleksiyon.dll
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\bin\Debug\net7.0\105- Generic_Olan_Koleksiyon.pdb
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\obj\Debug\net7.0\105- Generic_Olan_Koleksiyon.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\obj\Debug\net7.0\105- Generic_Olan_Koleksiyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\obj\Debug\net7.0\105- Generic_Olan_Koleksiyon.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\obj\Debug\net7.0\105- Generic_Olan_Koleksiyon.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\obj\Debug\net7.0\105- Generic_Olan_Koleksiyon.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\obj\Debug\net7.0\105- Generic_Olan_Koleksiyon.dll
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\obj\Debug\net7.0\refint\105- Generic_Olan_Koleksiyon.dll
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\obj\Debug\net7.0\105- Generic_Olan_Koleksiyon.pdb
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\obj\Debug\net7.0\105- Generic_Olan_Koleksiyon.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\105- Generic_Olan_Koleksiyon\obj\Debug\net7.0\ref\105- Generic_Olan_Koleksiyon.dll

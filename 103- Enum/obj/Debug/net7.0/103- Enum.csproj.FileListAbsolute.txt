@@ -1,0 +1,15 @@
+C:\Users\akifb\Documents\GitHub\103- Enum\bin\Debug\net7.0\103- Enum.exe
+C:\Users\akifb\Documents\GitHub\103- Enum\bin\Debug\net7.0\103- Enum.deps.json
+C:\Users\akifb\Documents\GitHub\103- Enum\bin\Debug\net7.0\103- Enum.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\103- Enum\bin\Debug\net7.0\103- Enum.dll
+C:\Users\akifb\Documents\GitHub\103- Enum\bin\Debug\net7.0\103- Enum.pdb
+C:\Users\akifb\Documents\GitHub\103- Enum\obj\Debug\net7.0\103- Enum.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\103- Enum\obj\Debug\net7.0\103- Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\103- Enum\obj\Debug\net7.0\103- Enum.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\103- Enum\obj\Debug\net7.0\103- Enum.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\103- Enum\obj\Debug\net7.0\103- Enum.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\103- Enum\obj\Debug\net7.0\103- Enum.dll
+C:\Users\akifb\Documents\GitHub\103- Enum\obj\Debug\net7.0\refint\103- Enum.dll
+C:\Users\akifb\Documents\GitHub\103- Enum\obj\Debug\net7.0\103- Enum.pdb
+C:\Users\akifb\Documents\GitHub\103- Enum\obj\Debug\net7.0\103- Enum.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\103- Enum\obj\Debug\net7.0\ref\103- Enum.dll
