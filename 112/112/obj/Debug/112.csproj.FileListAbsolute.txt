@@ -1,0 +1,11 @@
+C:\Users\akifb\Documents\GitHub\112\112\bin\Debug\112.exe.config
+C:\Users\akifb\Documents\GitHub\112\112\bin\Debug\112.exe
+C:\Users\akifb\Documents\GitHub\112\112\bin\Debug\112.pdb
+C:\Users\akifb\Documents\GitHub\112\112\obj\Debug\112.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\112\112\obj\Debug\112.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifb\Documents\GitHub\112\112\obj\Debug\_112.Form1.resources
+C:\Users\akifb\Documents\GitHub\112\112\obj\Debug\_112.Properties.Resources.resources
+C:\Users\akifb\Documents\GitHub\112\112\obj\Debug\112.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\112\112\obj\Debug\112.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\112\112\obj\Debug\112.exe
+C:\Users\akifb\Documents\GitHub\112\112\obj\Debug\112.pdb

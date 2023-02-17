@@ -1,0 +1,17 @@
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\bin\Debug\net6.0-windows\114- Combobox_Kullanimi.exe
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\bin\Debug\net6.0-windows\114- Combobox_Kullanimi.deps.json
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\bin\Debug\net6.0-windows\114- Combobox_Kullanimi.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\bin\Debug\net6.0-windows\114- Combobox_Kullanimi.dll
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\bin\Debug\net6.0-windows\114- Combobox_Kullanimi.pdb
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\obj\Debug\net6.0-windows\114- Combobox_Kullanimi.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\obj\Debug\net6.0-windows\_114__Combobox_Kullanimi.Form1.resources
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\obj\Debug\net6.0-windows\114- Combobox_Kullanimi.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\obj\Debug\net6.0-windows\114- Combobox_Kullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\obj\Debug\net6.0-windows\114- Combobox_Kullanimi.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\obj\Debug\net6.0-windows\114- Combobox_Kullanimi.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\obj\Debug\net6.0-windows\114- Combobox_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\obj\Debug\net6.0-windows\114- Combobox_Kullanimi.dll
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\obj\Debug\net6.0-windows\refint\114- Combobox_Kullanimi.dll
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\obj\Debug\net6.0-windows\114- Combobox_Kullanimi.pdb
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\obj\Debug\net6.0-windows\114- Combobox_Kullanimi.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\114- Combobox_Kullanimi\114- Combobox_Kullanimi\obj\Debug\net6.0-windows\ref\114- Combobox_Kullanimi.dll

@@ -1,0 +1,6 @@
+C:\Users\akifb\Documents\GitHub\115. DLL_Olusturma\Matematik\bin\Debug\Matematik.dll
+C:\Users\akifb\Documents\GitHub\115. DLL_Olusturma\Matematik\bin\Debug\Matematik.pdb
+C:\Users\akifb\Documents\GitHub\115. DLL_Olusturma\Matematik\obj\Debug\Matematik.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\115. DLL_Olusturma\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\115. DLL_Olusturma\Matematik\obj\Debug\Matematik.dll
+C:\Users\akifb\Documents\GitHub\115. DLL_Olusturma\Matematik\obj\Debug\Matematik.pdb

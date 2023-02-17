@@ -1,0 +1,10 @@
+C:\Users\akifb\source\repos\117. Listbox_Kullanimi\117. Listbox_Kullanimi\bin\Debug\_117.Listbox_Kullanimi.exe.config
+C:\Users\akifb\source\repos\117. Listbox_Kullanimi\117. Listbox_Kullanimi\bin\Debug\_117.Listbox_Kullanimi.exe
+C:\Users\akifb\source\repos\117. Listbox_Kullanimi\117. Listbox_Kullanimi\bin\Debug\_117.Listbox_Kullanimi.pdb
+C:\Users\akifb\source\repos\117. Listbox_Kullanimi\117. Listbox_Kullanimi\obj\Debug\_117.Listbox_Kullanimi.Form1.resources
+C:\Users\akifb\source\repos\117. Listbox_Kullanimi\117. Listbox_Kullanimi\obj\Debug\_117.Listbox_Kullanimi.Properties.Resources.resources
+C:\Users\akifb\source\repos\117. Listbox_Kullanimi\117. Listbox_Kullanimi\obj\Debug\117. Listbox_Kullanimi.csproj.GenerateResource.cache
+C:\Users\akifb\source\repos\117. Listbox_Kullanimi\117. Listbox_Kullanimi\obj\Debug\117. Listbox_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\source\repos\117. Listbox_Kullanimi\117. Listbox_Kullanimi\obj\Debug\_117.Listbox_Kullanimi.exe
+C:\Users\akifb\source\repos\117. Listbox_Kullanimi\117. Listbox_Kullanimi\obj\Debug\_117.Listbox_Kullanimi.pdb
+C:\Users\akifb\source\repos\117. Listbox_Kullanimi\117. Listbox_Kullanimi\obj\Debug\117. Listbox_Kullanimi.csproj.AssemblyReference.cache

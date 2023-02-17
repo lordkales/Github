@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "Matematik/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Matematik.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Matematik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matematik/1.0.0": {
+      "type": "project",
+      "path": "../Matematik/Matematik.csproj",
+      "msbuildProject": "../Matematik/Matematik.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "Matematik >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\akifb\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\akifb\\Documents\\GitHub\\115. DLL_Olusturma\\115. DLL_Olusturma\\115. DLL_Olusturma.csproj",
+      "projectName": "115. DLL_Olusturma",
+      "projectPath": "C:\\Users\\akifb\\Documents\\GitHub\\115. DLL_Olusturma\\115. DLL_Olusturma\\115. DLL_Olusturma.csproj",
+      "packagesPath": "C:\\Users\\akifb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\akifb\\Documents\\GitHub\\115. DLL_Olusturma\\115. DLL_Olusturma\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\akifb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {
+            "C:\\Users\\akifb\\Documents\\GitHub\\115. DLL_Olusturma\\Matematik\\Matematik.csproj": {
+              "projectPath": "C:\\Users\\akifb\\Documents\\GitHub\\115. DLL_Olusturma\\Matematik\\Matematik.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

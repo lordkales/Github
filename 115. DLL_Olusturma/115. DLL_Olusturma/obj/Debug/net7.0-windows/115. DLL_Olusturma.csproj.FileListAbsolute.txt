@@ -1,0 +1,7 @@
+C:\Users\akifb\Documents\GitHub\115. DLL_Olusturma\115. DLL_Olusturma\obj\Debug\net7.0-windows\115. DLL_Olusturma.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\115. DLL_Olusturma\115. DLL_Olusturma\obj\Debug\net7.0-windows\_115._DLL_Olusturma.Form1.resources
+C:\Users\akifb\Documents\GitHub\115. DLL_Olusturma\115. DLL_Olusturma\obj\Debug\net7.0-windows\115. DLL_Olusturma.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\115. DLL_Olusturma\115. DLL_Olusturma\obj\Debug\net7.0-windows\115. DLL_Olusturma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\115. DLL_Olusturma\115. DLL_Olusturma\obj\Debug\net7.0-windows\115. DLL_Olusturma.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\115. DLL_Olusturma\115. DLL_Olusturma\obj\Debug\net7.0-windows\115. DLL_Olusturma.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\115. DLL_Olusturma\115. DLL_Olusturma\obj\Debug\net7.0-windows\115. DLL_Olusturma.csproj.CoreCompileInputs.cache

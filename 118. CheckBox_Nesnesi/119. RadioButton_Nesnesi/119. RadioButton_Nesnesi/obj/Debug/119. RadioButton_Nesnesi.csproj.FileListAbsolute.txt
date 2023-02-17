@@ -1,0 +1,10 @@
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\119. RadioButton_Nesnesi\119. RadioButton_Nesnesi\bin\Debug\_119.RadioButton_Nesnesi.exe.config
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\119. RadioButton_Nesnesi\119. RadioButton_Nesnesi\bin\Debug\_119.RadioButton_Nesnesi.exe
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\119. RadioButton_Nesnesi\119. RadioButton_Nesnesi\bin\Debug\_119.RadioButton_Nesnesi.pdb
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\119. RadioButton_Nesnesi\119. RadioButton_Nesnesi\obj\Debug\_119.RadioButton_Nesnesi.Form1.resources
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\119. RadioButton_Nesnesi\119. RadioButton_Nesnesi\obj\Debug\_119.RadioButton_Nesnesi.Properties.Resources.resources
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\119. RadioButton_Nesnesi\119. RadioButton_Nesnesi\obj\Debug\119. RadioButton_Nesnesi.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\119. RadioButton_Nesnesi\119. RadioButton_Nesnesi\obj\Debug\119. RadioButton_Nesnesi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\119. RadioButton_Nesnesi\119. RadioButton_Nesnesi\obj\Debug\_119.RadioButton_Nesnesi.exe
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\119. RadioButton_Nesnesi\119. RadioButton_Nesnesi\obj\Debug\_119.RadioButton_Nesnesi.pdb
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\119. RadioButton_Nesnesi\119. RadioButton_Nesnesi\obj\Debug\119. RadioButton_Nesnesi.csproj.AssemblyReference.cache

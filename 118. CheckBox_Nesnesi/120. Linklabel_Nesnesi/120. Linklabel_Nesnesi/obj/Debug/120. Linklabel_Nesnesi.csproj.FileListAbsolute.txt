@@ -1,0 +1,9 @@
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\120. Linklabel_Nesnesi\120. Linklabel_Nesnesi\bin\Debug\_120.Linklabel_Nesnesi.exe.config
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\120. Linklabel_Nesnesi\120. Linklabel_Nesnesi\bin\Debug\_120.Linklabel_Nesnesi.exe
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\120. Linklabel_Nesnesi\120. Linklabel_Nesnesi\bin\Debug\_120.Linklabel_Nesnesi.pdb
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\120. Linklabel_Nesnesi\120. Linklabel_Nesnesi\obj\Debug\_120.Linklabel_Nesnesi.Form1.resources
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\120. Linklabel_Nesnesi\120. Linklabel_Nesnesi\obj\Debug\_120.Linklabel_Nesnesi.Properties.Resources.resources
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\120. Linklabel_Nesnesi\120. Linklabel_Nesnesi\obj\Debug\120. Linklabel_Nesnesi.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\120. Linklabel_Nesnesi\120. Linklabel_Nesnesi\obj\Debug\120. Linklabel_Nesnesi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\120. Linklabel_Nesnesi\120. Linklabel_Nesnesi\obj\Debug\_120.Linklabel_Nesnesi.exe
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\120. Linklabel_Nesnesi\120. Linklabel_Nesnesi\obj\Debug\_120.Linklabel_Nesnesi.pdb

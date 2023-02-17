@@ -1,0 +1,11 @@
+C:\Users\akifb\Documents\GitHub\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\akifb\Documents\GitHub\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\akifb\Documents\GitHub\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\akifb\Documents\GitHub\deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\deneme\deneme\obj\Debug\deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifb\Documents\GitHub\deneme\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\akifb\Documents\GitHub\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\akifb\Documents\GitHub\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\akifb\Documents\GitHub\deneme\deneme\obj\Debug\deneme.pdb

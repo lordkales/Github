@@ -1,0 +1,9 @@
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\121. TabControl_Nesnesi\121. TabControl_Nesnesi\bin\Debug\_121.TabControl_Nesnesi.exe.config
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\121. TabControl_Nesnesi\121. TabControl_Nesnesi\bin\Debug\_121.TabControl_Nesnesi.exe
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\121. TabControl_Nesnesi\121. TabControl_Nesnesi\bin\Debug\_121.TabControl_Nesnesi.pdb
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\121. TabControl_Nesnesi\121. TabControl_Nesnesi\obj\Debug\_121.TabControl_Nesnesi.Form1.resources
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\121. TabControl_Nesnesi\121. TabControl_Nesnesi\obj\Debug\_121.TabControl_Nesnesi.Properties.Resources.resources
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\121. TabControl_Nesnesi\121. TabControl_Nesnesi\obj\Debug\121. TabControl_Nesnesi.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\121. TabControl_Nesnesi\121. TabControl_Nesnesi\obj\Debug\121. TabControl_Nesnesi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\121. TabControl_Nesnesi\121. TabControl_Nesnesi\obj\Debug\_121.TabControl_Nesnesi.exe
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\121. TabControl_Nesnesi\121. TabControl_Nesnesi\obj\Debug\_121.TabControl_Nesnesi.pdb

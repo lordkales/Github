@@ -1,0 +1,17 @@
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\bin\Debug\net6.0-windows\113. Not_Hesaplama.exe
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\bin\Debug\net6.0-windows\113. Not_Hesaplama.deps.json
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\bin\Debug\net6.0-windows\113. Not_Hesaplama.runtimeconfig.json
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\bin\Debug\net6.0-windows\113. Not_Hesaplama.dll
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\bin\Debug\net6.0-windows\113. Not_Hesaplama.pdb
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\obj\Debug\net6.0-windows\113. Not_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\obj\Debug\net6.0-windows\_113._Not_Hesaplama.Form1.resources
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\obj\Debug\net6.0-windows\113. Not_Hesaplama.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\obj\Debug\net6.0-windows\113. Not_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\obj\Debug\net6.0-windows\113. Not_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\obj\Debug\net6.0-windows\113. Not_Hesaplama.AssemblyInfo.cs
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\obj\Debug\net6.0-windows\113. Not_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\obj\Debug\net6.0-windows\113. Not_Hesaplama.dll
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\obj\Debug\net6.0-windows\refint\113. Not_Hesaplama.dll
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\obj\Debug\net6.0-windows\113. Not_Hesaplama.pdb
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\obj\Debug\net6.0-windows\113. Not_Hesaplama.genruntimeconfig.cache
+C:\Users\akifb\Documents\GitHub\113. Not_Hesaplama\113. Not_Hesaplama\obj\Debug\net6.0-windows\ref\113. Not_Hesaplama.dll

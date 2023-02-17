@@ -1,0 +1,10 @@
+C:\Users\akifb\source\repos\116. MessageBox_Kullanimi\116. MessageBox_Kullanimi\bin\Debug\_116.MessageBox_Kullanimi.exe.config
+C:\Users\akifb\source\repos\116. MessageBox_Kullanimi\116. MessageBox_Kullanimi\bin\Debug\_116.MessageBox_Kullanimi.exe
+C:\Users\akifb\source\repos\116. MessageBox_Kullanimi\116. MessageBox_Kullanimi\bin\Debug\_116.MessageBox_Kullanimi.pdb
+C:\Users\akifb\source\repos\116. MessageBox_Kullanimi\116. MessageBox_Kullanimi\obj\Debug\_116.MessageBox_Kullanimi.Form1.resources
+C:\Users\akifb\source\repos\116. MessageBox_Kullanimi\116. MessageBox_Kullanimi\obj\Debug\_116.MessageBox_Kullanimi.Properties.Resources.resources
+C:\Users\akifb\source\repos\116. MessageBox_Kullanimi\116. MessageBox_Kullanimi\obj\Debug\116. MessageBox_Kullanimi.csproj.GenerateResource.cache
+C:\Users\akifb\source\repos\116. MessageBox_Kullanimi\116. MessageBox_Kullanimi\obj\Debug\116. MessageBox_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\source\repos\116. MessageBox_Kullanimi\116. MessageBox_Kullanimi\obj\Debug\_116.MessageBox_Kullanimi.exe
+C:\Users\akifb\source\repos\116. MessageBox_Kullanimi\116. MessageBox_Kullanimi\obj\Debug\_116.MessageBox_Kullanimi.pdb
+C:\Users\akifb\source\repos\116. MessageBox_Kullanimi\116. MessageBox_Kullanimi\obj\Debug\116. MessageBox_Kullanimi.csproj.AssemblyReference.cache
