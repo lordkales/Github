@@ -1,0 +1,10 @@
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\122. PictureBox_Kullanimi\122. PictureBox_Kullanimi\obj\Debug\122. PictureBox_Kullanimi.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\122. PictureBox_Kullanimi\122. PictureBox_Kullanimi\obj\Debug\_122.PictureBox_Kullanimi.Form1.resources
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\122. PictureBox_Kullanimi\122. PictureBox_Kullanimi\obj\Debug\_122.PictureBox_Kullanimi.Properties.Resources.resources
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\122. PictureBox_Kullanimi\122. PictureBox_Kullanimi\obj\Debug\122. PictureBox_Kullanimi.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\122. PictureBox_Kullanimi\122. PictureBox_Kullanimi\obj\Debug\122. PictureBox_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\122. PictureBox_Kullanimi\122. PictureBox_Kullanimi\bin\Debug\_122.PictureBox_Kullanimi.exe.config
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\122. PictureBox_Kullanimi\122. PictureBox_Kullanimi\bin\Debug\_122.PictureBox_Kullanimi.exe
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\122. PictureBox_Kullanimi\122. PictureBox_Kullanimi\bin\Debug\_122.PictureBox_Kullanimi.pdb
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\122. PictureBox_Kullanimi\122. PictureBox_Kullanimi\obj\Debug\_122.PictureBox_Kullanimi.exe
+C:\Users\akifb\Documents\GitHub\118. CheckBox_Nesnesi\122. PictureBox_Kullanimi\122. PictureBox_Kullanimi\obj\Debug\_122.PictureBox_Kullanimi.pdb
