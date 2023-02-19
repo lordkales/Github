@@ -1,0 +1,10 @@
+C:\Users\akifb\Documents\GitHub\131. WebBrowser_Kullanimi\131. WebBrowser_Kullanimi\bin\Debug\_131.WebBrowser_Kullanimi.exe.config
+C:\Users\akifb\Documents\GitHub\131. WebBrowser_Kullanimi\131. WebBrowser_Kullanimi\bin\Debug\_131.WebBrowser_Kullanimi.exe
+C:\Users\akifb\Documents\GitHub\131. WebBrowser_Kullanimi\131. WebBrowser_Kullanimi\bin\Debug\_131.WebBrowser_Kullanimi.pdb
+C:\Users\akifb\Documents\GitHub\131. WebBrowser_Kullanimi\131. WebBrowser_Kullanimi\obj\Debug\131. WebBrowser_Kullanimi.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\131. WebBrowser_Kullanimi\131. WebBrowser_Kullanimi\obj\Debug\_131.WebBrowser_Kullanimi.Form1.resources
+C:\Users\akifb\Documents\GitHub\131. WebBrowser_Kullanimi\131. WebBrowser_Kullanimi\obj\Debug\_131.WebBrowser_Kullanimi.Properties.Resources.resources
+C:\Users\akifb\Documents\GitHub\131. WebBrowser_Kullanimi\131. WebBrowser_Kullanimi\obj\Debug\131. WebBrowser_Kullanimi.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\131. WebBrowser_Kullanimi\131. WebBrowser_Kullanimi\obj\Debug\131. WebBrowser_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\131. WebBrowser_Kullanimi\131. WebBrowser_Kullanimi\obj\Debug\_131.WebBrowser_Kullanimi.exe
+C:\Users\akifb\Documents\GitHub\131. WebBrowser_Kullanimi\131. WebBrowser_Kullanimi\obj\Debug\_131.WebBrowser_Kullanimi.pdb

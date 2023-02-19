@@ -1,0 +1,10 @@
+C:\Users\akifb\Documents\GitHub\124. GroupBox_Kullanimi\124. GroupBox_Kullanimi\bin\Debug\_124.GroupBox_Kullanimi.exe.config
+C:\Users\akifb\Documents\GitHub\124. GroupBox_Kullanimi\124. GroupBox_Kullanimi\bin\Debug\_124.GroupBox_Kullanimi.exe
+C:\Users\akifb\Documents\GitHub\124. GroupBox_Kullanimi\124. GroupBox_Kullanimi\bin\Debug\_124.GroupBox_Kullanimi.pdb
+C:\Users\akifb\Documents\GitHub\124. GroupBox_Kullanimi\124. GroupBox_Kullanimi\obj\Debug\124. GroupBox_Kullanimi.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\124. GroupBox_Kullanimi\124. GroupBox_Kullanimi\obj\Debug\_124.GroupBox_Kullanimi.Form1.resources
+C:\Users\akifb\Documents\GitHub\124. GroupBox_Kullanimi\124. GroupBox_Kullanimi\obj\Debug\_124.GroupBox_Kullanimi.Properties.Resources.resources
+C:\Users\akifb\Documents\GitHub\124. GroupBox_Kullanimi\124. GroupBox_Kullanimi\obj\Debug\124. GroupBox_Kullanimi.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\124. GroupBox_Kullanimi\124. GroupBox_Kullanimi\obj\Debug\124. GroupBox_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\124. GroupBox_Kullanimi\124. GroupBox_Kullanimi\obj\Debug\_124.GroupBox_Kullanimi.exe
+C:\Users\akifb\Documents\GitHub\124. GroupBox_Kullanimi\124. GroupBox_Kullanimi\obj\Debug\_124.GroupBox_Kullanimi.pdb

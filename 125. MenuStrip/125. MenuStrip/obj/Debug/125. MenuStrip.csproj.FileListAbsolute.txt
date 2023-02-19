@@ -1,0 +1,10 @@
+C:\Users\akifb\Documents\GitHub\125. MenuStrip\125. MenuStrip\bin\Debug\_125.MenuStrip.exe.config
+C:\Users\akifb\Documents\GitHub\125. MenuStrip\125. MenuStrip\bin\Debug\_125.MenuStrip.exe
+C:\Users\akifb\Documents\GitHub\125. MenuStrip\125. MenuStrip\bin\Debug\_125.MenuStrip.pdb
+C:\Users\akifb\Documents\GitHub\125. MenuStrip\125. MenuStrip\obj\Debug\_125.MenuStrip.Form1.resources
+C:\Users\akifb\Documents\GitHub\125. MenuStrip\125. MenuStrip\obj\Debug\_125.MenuStrip.Properties.Resources.resources
+C:\Users\akifb\Documents\GitHub\125. MenuStrip\125. MenuStrip\obj\Debug\125. MenuStrip.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\125. MenuStrip\125. MenuStrip\obj\Debug\125. MenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\125. MenuStrip\125. MenuStrip\obj\Debug\_125.MenuStrip.exe
+C:\Users\akifb\Documents\GitHub\125. MenuStrip\125. MenuStrip\obj\Debug\_125.MenuStrip.pdb
+C:\Users\akifb\Documents\GitHub\125. MenuStrip\125. MenuStrip\obj\Debug\_125.MenuStrip.StokForm.resources

@@ -1,0 +1,10 @@
+C:\Users\akifb\Documents\GitHub\132. Timer_Kullanimi\132. Timer_Kullanimi\bin\Debug\_132.Timer_Kullanimi.exe.config
+C:\Users\akifb\Documents\GitHub\132. Timer_Kullanimi\132. Timer_Kullanimi\bin\Debug\_132.Timer_Kullanimi.exe
+C:\Users\akifb\Documents\GitHub\132. Timer_Kullanimi\132. Timer_Kullanimi\bin\Debug\_132.Timer_Kullanimi.pdb
+C:\Users\akifb\Documents\GitHub\132. Timer_Kullanimi\132. Timer_Kullanimi\obj\Debug\_132.Timer_Kullanimi.Form1.resources
+C:\Users\akifb\Documents\GitHub\132. Timer_Kullanimi\132. Timer_Kullanimi\obj\Debug\_132.Timer_Kullanimi.Properties.Resources.resources
+C:\Users\akifb\Documents\GitHub\132. Timer_Kullanimi\132. Timer_Kullanimi\obj\Debug\132. Timer_Kullanimi.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\132. Timer_Kullanimi\132. Timer_Kullanimi\obj\Debug\132. Timer_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\132. Timer_Kullanimi\132. Timer_Kullanimi\obj\Debug\_132.Timer_Kullanimi.exe
+C:\Users\akifb\Documents\GitHub\132. Timer_Kullanimi\132. Timer_Kullanimi\obj\Debug\_132.Timer_Kullanimi.pdb
+C:\Users\akifb\Documents\GitHub\132. Timer_Kullanimi\132. Timer_Kullanimi\obj\Debug\132. Timer_Kullanimi.csproj.AssemblyReference.cache

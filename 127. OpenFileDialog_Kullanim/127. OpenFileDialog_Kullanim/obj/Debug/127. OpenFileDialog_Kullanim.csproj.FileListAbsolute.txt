@@ -1,0 +1,10 @@
+C:\Users\akifb\Documents\GitHub\127. OpenFileDialog_Kullanim\127. OpenFileDialog_Kullanim\bin\Debug\_127.OpenFileDialog_Kullanim.exe.config
+C:\Users\akifb\Documents\GitHub\127. OpenFileDialog_Kullanim\127. OpenFileDialog_Kullanim\bin\Debug\_127.OpenFileDialog_Kullanim.exe
+C:\Users\akifb\Documents\GitHub\127. OpenFileDialog_Kullanim\127. OpenFileDialog_Kullanim\bin\Debug\_127.OpenFileDialog_Kullanim.pdb
+C:\Users\akifb\Documents\GitHub\127. OpenFileDialog_Kullanim\127. OpenFileDialog_Kullanim\obj\Debug\_127.OpenFileDialog_Kullanim.Form1.resources
+C:\Users\akifb\Documents\GitHub\127. OpenFileDialog_Kullanim\127. OpenFileDialog_Kullanim\obj\Debug\_127.OpenFileDialog_Kullanim.Properties.Resources.resources
+C:\Users\akifb\Documents\GitHub\127. OpenFileDialog_Kullanim\127. OpenFileDialog_Kullanim\obj\Debug\127. OpenFileDialog_Kullanim.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\127. OpenFileDialog_Kullanim\127. OpenFileDialog_Kullanim\obj\Debug\127. OpenFileDialog_Kullanim.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\127. OpenFileDialog_Kullanim\127. OpenFileDialog_Kullanim\obj\Debug\_127.OpenFileDialog_Kullanim.exe
+C:\Users\akifb\Documents\GitHub\127. OpenFileDialog_Kullanim\127. OpenFileDialog_Kullanim\obj\Debug\_127.OpenFileDialog_Kullanim.pdb
+C:\Users\akifb\Documents\GitHub\127. OpenFileDialog_Kullanim\127. OpenFileDialog_Kullanim\obj\Debug\127. OpenFileDialog_Kullanim.csproj.AssemblyReference.cache

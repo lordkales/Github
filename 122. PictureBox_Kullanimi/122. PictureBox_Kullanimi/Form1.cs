@@ -25,11 +25,15 @@ namespace _122.PictureBox_Kullanimi
 
             if(kullaniciadi.ToLower()=="burak"&&kullanicisifre.ToLower()=="123")
             {
-                MessageBox.Show("Giriş Başarılı", "Bilgilendirme",MessageBoxButtons.OK,MessageBoxIcon.Asterisk);
+                //farklı bir forma yönlendir 
+                anasayfa anasayfa = new anasayfa();
+                anasayfa.lbl_deger.Text = kullaniciadi.ToUpper();
+                anasayfa.Show();
+                this.Hide();
             }
             else
             {
-                MessageBox.Show("Kullanıcı adı yada şifre hatalı", "Bilgilendirme", MessageBoxButtons.OK,MessageBoxIcon.Stop);
+                MessageBox.Show("Kullanıcı adı yada şifre hatalı", "Error", MessageBoxButtons.OK,MessageBoxIcon.Stop);
             }
         }
     }
