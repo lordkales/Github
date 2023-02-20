@@ -1,0 +1,10 @@
+C:\Users\akifb\Documents\GitHub\134. DataGridView\134. DataGridView\bin\Debug\_134.DataGridView.exe.config
+C:\Users\akifb\Documents\GitHub\134. DataGridView\134. DataGridView\bin\Debug\_134.DataGridView.exe
+C:\Users\akifb\Documents\GitHub\134. DataGridView\134. DataGridView\bin\Debug\_134.DataGridView.pdb
+C:\Users\akifb\Documents\GitHub\134. DataGridView\134. DataGridView\obj\Debug\134. DataGridView.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\134. DataGridView\134. DataGridView\obj\Debug\_134.DataGridView.Form1.resources
+C:\Users\akifb\Documents\GitHub\134. DataGridView\134. DataGridView\obj\Debug\_134.DataGridView.Properties.Resources.resources
+C:\Users\akifb\Documents\GitHub\134. DataGridView\134. DataGridView\obj\Debug\134. DataGridView.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\134. DataGridView\134. DataGridView\obj\Debug\134. DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\134. DataGridView\134. DataGridView\obj\Debug\_134.DataGridView.exe
+C:\Users\akifb\Documents\GitHub\134. DataGridView\134. DataGridView\obj\Debug\_134.DataGridView.pdb

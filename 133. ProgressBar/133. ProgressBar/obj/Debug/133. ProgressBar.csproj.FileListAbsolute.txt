@@ -1,0 +1,10 @@
+C:\Users\akifb\Documents\GitHub\133. ProgressBar\133. ProgressBar\bin\Debug\_133.ProgressBar.exe.config
+C:\Users\akifb\Documents\GitHub\133. ProgressBar\133. ProgressBar\bin\Debug\_133.ProgressBar.exe
+C:\Users\akifb\Documents\GitHub\133. ProgressBar\133. ProgressBar\bin\Debug\_133.ProgressBar.pdb
+C:\Users\akifb\Documents\GitHub\133. ProgressBar\133. ProgressBar\obj\Debug\133. ProgressBar.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\133. ProgressBar\133. ProgressBar\obj\Debug\_133.ProgressBar.Form1.resources
+C:\Users\akifb\Documents\GitHub\133. ProgressBar\133. ProgressBar\obj\Debug\_133.ProgressBar.Properties.Resources.resources
+C:\Users\akifb\Documents\GitHub\133. ProgressBar\133. ProgressBar\obj\Debug\133. ProgressBar.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\133. ProgressBar\133. ProgressBar\obj\Debug\133. ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\133. ProgressBar\133. ProgressBar\obj\Debug\_133.ProgressBar.exe
+C:\Users\akifb\Documents\GitHub\133. ProgressBar\133. ProgressBar\obj\Debug\_133.ProgressBar.pdb
