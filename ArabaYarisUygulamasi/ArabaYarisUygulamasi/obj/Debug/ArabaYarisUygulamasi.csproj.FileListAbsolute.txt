@@ -1,0 +1,10 @@
+C:\Users\akifb\source\repos\ArabaYarisUygulamasi\ArabaYarisUygulamasi\bin\Debug\ArabaYarisUygulamasi.exe.config
+C:\Users\akifb\source\repos\ArabaYarisUygulamasi\ArabaYarisUygulamasi\bin\Debug\ArabaYarisUygulamasi.exe
+C:\Users\akifb\source\repos\ArabaYarisUygulamasi\ArabaYarisUygulamasi\bin\Debug\ArabaYarisUygulamasi.pdb
+C:\Users\akifb\source\repos\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.csproj.AssemblyReference.cache
+C:\Users\akifb\source\repos\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.Form1.resources
+C:\Users\akifb\source\repos\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.Properties.Resources.resources
+C:\Users\akifb\source\repos\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.csproj.GenerateResource.cache
+C:\Users\akifb\source\repos\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\source\repos\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.exe
+C:\Users\akifb\source\repos\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.pdb
