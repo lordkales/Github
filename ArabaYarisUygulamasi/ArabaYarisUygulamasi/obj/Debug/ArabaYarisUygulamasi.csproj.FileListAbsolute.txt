@@ -8,3 +8,13 @@ C:\Users\akifb\source\repos\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\
 C:\Users\akifb\source\repos\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.csproj.CoreCompileInputs.cache
 C:\Users\akifb\source\repos\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.exe
 C:\Users\akifb\source\repos\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.pdb
+C:\Users\akifb\Documents\GitHub\ArabaYarisUygulamasi\ArabaYarisUygulamasi\bin\Debug\ArabaYarisUygulamasi.exe.config
+C:\Users\akifb\Documents\GitHub\ArabaYarisUygulamasi\ArabaYarisUygulamasi\bin\Debug\ArabaYarisUygulamasi.exe
+C:\Users\akifb\Documents\GitHub\ArabaYarisUygulamasi\ArabaYarisUygulamasi\bin\Debug\ArabaYarisUygulamasi.pdb
+C:\Users\akifb\Documents\GitHub\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.csproj.AssemblyReference.cache
+C:\Users\akifb\Documents\GitHub\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.Form1.resources
+C:\Users\akifb\Documents\GitHub\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.Properties.Resources.resources
+C:\Users\akifb\Documents\GitHub\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.csproj.GenerateResource.cache
+C:\Users\akifb\Documents\GitHub\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\akifb\Documents\GitHub\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.exe
+C:\Users\akifb\Documents\GitHub\ArabaYarisUygulamasi\ArabaYarisUygulamasi\obj\Debug\ArabaYarisUygulamasi.pdb
